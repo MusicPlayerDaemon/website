@@ -75,3 +75,9 @@ watcher:
   # When to send notifications (using Growl or notify-send).
   notify_on_compilation_success: true
   notify_on_compilation_failure: true
+
+deploy:
+  public:
+    kind: rsync
+    dst:  "max@www.musicpd.org:/var/www/mpd/content"
+    options: [ '-aP', '--delete-after', '--chmod=ugo+rX' ]
