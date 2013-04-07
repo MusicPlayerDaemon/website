@@ -24,3 +24,8 @@ Features:
 [Source tarballs](http://www.musicpd.org/download/ncmpc/)
 
 [git repository](http://git.musicpd.org/cgit/master/ncmpc.git/)
+
+## Support and Development
+
+ncmpc uses MPD's infrastructure (bug tracker, forum, IRC, ...).  Check
+the links on the left.
