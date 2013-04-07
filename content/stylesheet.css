@@ -103,3 +103,30 @@ a:hover {
   text-decoration: underline;
   color: red;
 }
+
+.post {
+  margin: 10pt 0 30pt 0;
+}
+
+.post h3 a {
+  text-decoration: none;
+}
+
+.post h3 a:hover {
+  text-decoration: underline;
+}
+
+.post > aside {
+  color: #888;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #aaa;
+}
+
+.post > article {
+  margin: 0pt;
+  padding: 0pt;
+}
+
+#main .post > article > p {
+  margin: 2pt 0 4pt 0;
+}
