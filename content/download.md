@@ -6,6 +6,7 @@ title: Download
 
 - [Latest stable version](/download/mpd/stable/)
 - [All versions](/download/mpd/)
+- [git repository](http://git.musicpd.org/cgit/master/mpd.git/)
 
 ## Binaries
 
