@@ -2,8 +2,6 @@
 title: Clients
 ---
 
-# Clients
-
 MPD is designed around a client/server architecture, where the clients
 and server (MPD is the server) interact over a network.  Thus, running
 MPD is only half of the equation.  To use MPD, you need to install a

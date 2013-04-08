@@ -2,8 +2,6 @@
 title: mpc
 ---
 
-# mpc
-
 A minimalist command line interface to MPD.
 
 ## Download
