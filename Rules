@@ -18,6 +18,10 @@ compile '/stylesheet/' do
   # don’t filter or layout
 end
 
+compile 'news/atom' do
+  filter :erb
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -41,6 +45,10 @@ route '/posts/*' do
     .match(item.identifier).captures
 
   "/news/#{y}/#{m}/#{slug}/index.html"
+end
+
+route 'news/atom' do
+  '/news/atom.xml'
 end
 
 route '*' do
