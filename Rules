@@ -32,6 +32,10 @@ route '/stylesheet/' do
   '/style.css'
 end
 
+route '/download/' do
+  '/download.html'
+end
+
 route '*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
