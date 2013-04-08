@@ -9,6 +9,7 @@ title: Download
 
 ## Binaries
 
+- [Debian packages](http://packages.debian.org/mpd)
 - [Windows binaries](/download/win32/)
 
 ## Other
