@@ -5,7 +5,9 @@ rescue LoadError
   require 'nanoc3/tasks'
 end
 
+require 'yaml'
 require 'stringex'
+
 desc "Create a new post"
 task :new_post, :title do |t, args|
   mkdir_p './content/posts'
@@ -24,4 +26,21 @@ task :new_post, :title do |t, args|
     post.puts 'published: false'
     post.puts "---\n\n"
   end
+
+  system("stg", "new", "-m", "news: #{title}")
+  system("git", "add", filename)
+  system("stg", "refresh")
+  system("sensible-editor", filename)
+
+  metadata = YAML.load_file(filename)
+  p metadata
+  title = metadata['title']
+  date = metadata['created_at']
+  new_filename = "./content/posts/#{date.strftime('%Y-%m-%d')}-#{title.to_url}.md"
+  if new_filename != filename
+    system("git", "mv", filename, new_filename)
+  end
+
+  system("stg", "refresh")
+  system("stg", "edit", "-m", "news: #{title}")
 end
