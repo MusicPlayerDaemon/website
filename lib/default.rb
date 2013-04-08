@@ -1,6 +1,9 @@
 # All files in the 'lib' directory will be loaded
 # before nanoc starts compiling.
 
+# force UTF-8, even if nanoc is called with a different locale
+Encoding.default_external = 'utf-8'
+
 include Nanoc3::Helpers::Blogging
 include Nanoc3::Helpers::Tagging
 include Nanoc3::Helpers::Rendering
