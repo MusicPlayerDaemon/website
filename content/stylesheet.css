@@ -9,17 +9,8 @@ body {
   background: #fff;
 }
 
-a {
-  text-decoration: none;
-}
-
-a:link,
-a:visited {
-  color: #f30;
-}
-
 a:hover {
-  color: #f90;
+  color: red;
 }
 
 #main {
@@ -98,4 +89,17 @@ a:hover {
   font-size: 14px;
 
   line-height: 20px;
+}
+
+#sidebar a {
+  text-decoration: none;
+}
+
+#sidebar a:link, #sidebar a:visited {
+  color: blue;
+}
+
+#sidebar a:hover {
+  text-decoration: underline;
+  color: red;
 }
