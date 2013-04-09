@@ -11,6 +11,10 @@ the C, C++ & Objective C languages.
 
 [git repository](http://git.musicpd.org/cgit/master/libmpdclient.git/)
 
+## Documentation
+
+[Online API documentation](http://www.musicpd.org/doc/libmpdclient/)
+
 ## Support and Development
 
 libmpdclient uses MPD's infrastructure (bug tracker, forum, IRC, ...).
