@@ -48,7 +48,7 @@ route '/posts/*' do
 end
 
 route 'news/atom' do
-  '/news/atom.xml'
+  '/atom.xml'
 end
 
 route '*' do
