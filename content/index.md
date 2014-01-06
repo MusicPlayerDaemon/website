@@ -1,5 +1,7 @@
 ---
 title: Music Player Daemon
+description: Music Player Daemon is a flexible, powerful, server-side application for playing music.
+keywords: mpd, daemon, music player, mp3, ogg vorbis, flac, wavpack, opus, radio, streaming, linux, open source
 ---
 
 Music Player Daemon (MPD) is a flexible, powerful, server-side
