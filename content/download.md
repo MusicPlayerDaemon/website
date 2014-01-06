@@ -1,5 +1,6 @@
 ---
 title: Download
+head_title: Download the Music Player Daemon
 ---
 
 ## Source Code

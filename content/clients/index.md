@@ -1,5 +1,6 @@
 ---
 title: Clients
+head_title: Clients for the Music Player Daemon
 ---
 
 MPD is designed around a client/server architecture, where the clients

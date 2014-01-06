@@ -2,7 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Music Player Daemon - <%= @item[:title] %></title>
+    <title>
+      <%if @item[:head_title] %>
+      <%= @item[:head_title] %>
+      <%else%>
+      <%= @item[:title] %> - Music Player Daemon
+      <%end%>
+    </title>
 
     <%if @item[:description] %>
     <meta name="description" content="<%= @item[:description] %>">
