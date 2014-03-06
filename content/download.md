@@ -5,7 +5,13 @@ head_title: Download the Music Player Daemon
 
 ## Source Code
 
-- [Latest stable version](/download/mpd/stable/)
+<% mpd_version = @config[:mpd][:version] %>
+<% mpd_short_version = mpd_version =~ /^(\d+\.\d+)/ ? $1 : mpd_version %>
+<% mpd_tarball_filename = "mpd-#{mpd_version}.tar.xz" %>
+
+- [<%= mpd_tarball_filename %>](/download/mpd/<%=mpd_short_version%>/<%=mpd_tarball_filename%>)
+  ([sig](/download/mpd/<%=mpd_short_version%>/<%=mpd_tarball_filename%>.sig),
+  [change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-<%=mpd_version%>))
 - [All versions](/download/mpd/)
 - [git repository](http://git.musicpd.org/cgit/master/mpd.git/)
 

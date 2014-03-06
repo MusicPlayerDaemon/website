@@ -84,3 +84,6 @@ deploy:
     kind: rsync
     dst:  "max@www.musicpd.org:/var/www/mpd/content"
     options: [ '-aP', '--delete-after', '--chmod=ugo+rX' ]
+
+mpd:
+  version: 0.18.9
