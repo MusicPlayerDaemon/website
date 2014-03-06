@@ -1,5 +1,6 @@
 ---
 title: ncmpc
+version: "0.21"
 ---
 
 ncmpc is a fully featured MPD client, which runs in a terminal (using
@@ -19,9 +20,14 @@ Features:
 
 ## Download
 
-[Source tarballs](http://www.musicpd.org/download/ncmpc/)
+<% version = @item[:version] %>
+<% short_version = version =~ /(^\d+)/ ? $1 : version %>
+<% tarball_filename = "ncmpc-#{version}.tar.bz2" %>
 
-[git repository](http://git.musicpd.org/cgit/master/ncmpc.git/)
+- [<%= tarball_filename %>](/download/ncmpc/<%=short_version%>/<%=tarball_filename%>)
+  ([change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=release-<%=version%>))
+- [All versions](/download/ncmpc/)
+- [git repository](http://git.musicpd.org/cgit/master/ncmpc.git/)
 
 ## Support and Development
 

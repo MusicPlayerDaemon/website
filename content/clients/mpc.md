@@ -1,14 +1,21 @@
 ---
 title: mpc
+version: "0.25"
 ---
 
 A minimalist command line interface to MPD.
 
 ## Download
 
-[Source tarballs](http://www.musicpd.org/download/mpc/)
+<% version = @item[:version] %>
+<% short_version = version =~ /(^\d+)/ ? $1 : version %>
+<% tarball_filename = "mpc-#{version}.tar.xz" %>
 
-[git repository](http://git.musicpd.org/cgit/master/mpc.git/)
+- [<%= tarball_filename %>](/download/mpc/<%=short_version%>/<%=tarball_filename%>)
+  ([sig](/download/mpc/<%=short_version%>/<%=tarball_filename%>.sig),
+  [change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=release-<%=version%>))
+- [All versions](/download/mpc/)
+- [git repository](http://git.musicpd.org/cgit/master/mpc.git/)
 
 ## Support and Development
 
