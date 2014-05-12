@@ -12,4 +12,4 @@ It fixes several minor bugs in the decoder plugins `ffmpeg`, `gme` and
 `sndfile`.  Playback doesn't get interrupted anymore when the current
 song gets deleted.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-0.18.10)
+[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.10)

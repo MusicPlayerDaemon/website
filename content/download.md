@@ -11,7 +11,7 @@ head_title: Download the Music Player Daemon
 
 - [<%= mpd_tarball_filename %>](/download/mpd/<%=mpd_short_version%>/<%=mpd_tarball_filename%>)
   ([sig](/download/mpd/<%=mpd_short_version%>/<%=mpd_tarball_filename%>.sig),
-  [change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-<%=mpd_version%>))
+  [change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v<%=mpd_version%>))
 - [All versions](/download/mpd/)
 - [git repository](http://git.musicpd.org/cgit/master/mpd.git/)
 

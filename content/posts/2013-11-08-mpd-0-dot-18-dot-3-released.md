@@ -12,4 +12,4 @@ A nasty regression in yesterday's 0.18.2 (revealing an old bug that
 was invisible for many years) made this release necessary.  Sorry for
 the hiccup.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-0.18.3)
+[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.3)

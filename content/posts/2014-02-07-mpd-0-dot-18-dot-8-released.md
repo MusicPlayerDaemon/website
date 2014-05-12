@@ -12,4 +12,4 @@ It improves the Icy metadata parser, adds support for `libav`
 v10_alpha2 API changes and fixes two build failures: one with the
 Vorbis encoder and another one on Solaris.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-0.18.8)
+[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.8)

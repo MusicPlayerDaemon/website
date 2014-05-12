@@ -14,4 +14,4 @@ version 7.32.0.  A clipping bug with resampling 24 bit audio was
 fixed.  The "proxy" database plugin has learned to forward the
 "db_update" attribute.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-0.18.5)
+[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.5)

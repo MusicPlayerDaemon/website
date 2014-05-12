@@ -25,4 +25,4 @@ Countless small improvements: turn off timer wakeups while idle to
 reduce battery usage; MPD is no longer unresponsive while waiting for
 a stream; improved error reporting; and so on.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=release-0.18)
+[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18)
