@@ -14,4 +14,4 @@ protocol.
 mpc [0.24](http://www.musicpd.org/download/mpc/0/mpc-0.24.tar.xz) has
 been released.  It fixes various minor bugs and also adds support for
 MPD 0.18.
-[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=release-0.24)
+[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v0.24)

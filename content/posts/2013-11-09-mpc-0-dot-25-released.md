@@ -9,4 +9,4 @@ mpc [0.25](http://www.musicpd.org/download/mpc/0/mpc-0.25.tar.xz) has
 been released.  It fixes a problem with the `insert` command and
 optimizes the tab completion commands.
 
-[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=release-0.25)
+[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v0.25)
