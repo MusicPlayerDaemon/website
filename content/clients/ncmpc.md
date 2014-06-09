@@ -25,7 +25,7 @@ Features:
 <% tarball_filename = "ncmpc-#{version}.tar.bz2" %>
 
 - [<%= tarball_filename %>](/download/ncmpc/<%=short_version%>/<%=tarball_filename%>)
-  ([change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=release-<%=version%>))
+  ([change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v<%=version%>))
 - [All versions](/download/ncmpc/)
 - [git repository](http://git.musicpd.org/cgit/master/ncmpc.git/)
 
