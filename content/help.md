@@ -11,6 +11,7 @@ the left).  Before you go there:
 - check file permissions
 - check the log file (\-\-verbose)
 - make sure you have the latest MPD version
+  (<%=@config[:mpd][:version]%>)
 - make sure you have the latest version of all decoder libraries
 
 When you do request help, post the following data (use
