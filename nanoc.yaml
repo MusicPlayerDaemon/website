@@ -86,4 +86,4 @@ deploy:
     options: [ '-aP', '--delete-after', '--chmod=ugo+rX' ]
 
 mpd:
-  version: 0.19.2
+  version: 0.19.3
