@@ -25,6 +25,9 @@ end
 compile '/google6715cb0d629b5cad/' do
 end
 
+compile '/robots/' do
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -60,6 +63,10 @@ end
 
 route '/google6715cb0d629b5cad/' do
   item.identifier.sub(/\/$/, '.html')
+end
+
+route '/robots/' do
+  '/robots.txt'
 end
 
 route '*' do
