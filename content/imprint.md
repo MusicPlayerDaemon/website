@@ -5,8 +5,8 @@ title: Imprint
 The *Music Player Daemon* project is managed by:
 
 [Max Kellermann](http://max.kellermann.name/)  
-Deutz-Mülheimer Straße 231  
-51063 Köln  
+Zur Brücker Aue 20  
+51427 Bergisch Gladbach  
 Germany  
 <imprint@musicpd.org>
 
