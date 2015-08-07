@@ -14,6 +14,7 @@ head_title: Download the Music Player Daemon
   [change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v<%=mpd_version%>))
 - [All versions](/download/mpd/)
 - [git repository](http://git.musicpd.org/cgit/master/mpd.git/)
+  ([GitHub mirror](https://github.com/MaxKellermann/MPD))
 
 Release tarballs and git tags are signed with
 [GPG key `C6DB4512`](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x236E8A58C6DB4512).
