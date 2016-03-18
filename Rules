@@ -62,7 +62,7 @@ route 'news/atom' do
 end
 
 route '/google6715cb0d629b5cad/' do
-  item.identifier.sub(/\/$/, '.html')
+  item.identifier.chop + '.html'
 end
 
 route '/robots/' do
