@@ -5,9 +5,8 @@ title: Getting Help
 We have a forum and an IRC channel for requesting help (see links on
 the left).  Before you go there:
 
-- read the documentation
-- read the
-  [troubleshooting page](http://mpd.wikia.com/wiki/Music_Player_Daemon_HOWTO_Troubleshoot)
+- read the [manual](/doc/user/) and its
+  [troubleshooting chapter](/doc/user/troubleshooting.html)
 - check file permissions
 - check the log file (\-\-verbose)
 - make sure you have the latest MPD version
