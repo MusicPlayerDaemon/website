@@ -28,6 +28,7 @@ Features:
   ([change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v<%=version%>))
 - [All versions](/download/ncmpc/)
 - [git repository](http://git.musicpd.org/cgit/master/ncmpc.git/)
+- [GitHub mirror](https://github.com/MaxKellermann/ncmpc)
 
 ## Support and Development
 

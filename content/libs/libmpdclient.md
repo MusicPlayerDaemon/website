@@ -7,9 +7,9 @@ the C, C++ & Objective C languages.
 
 ## Download
 
-[Source tarballs](http://www.musicpd.org/download/libmpdclient/)
-
-[git repository](http://git.musicpd.org/cgit/master/libmpdclient.git/)
+- [Source tarballs](http://www.musicpd.org/download/libmpdclient/)
+- [git repository](http://git.musicpd.org/cgit/master/libmpdclient.git/)
+- [GitHub mirror](https://github.com/MaxKellermann/libmpdclient)
 
 ## Documentation
 
