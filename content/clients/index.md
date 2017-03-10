@@ -17,7 +17,7 @@ written in C.
 
 [ncmpc](ncmpc/) - A curses client written in C.
 
-[ncmpcpp](http://mpd.wikia.com/wiki/Client:Ncmpcpp) - A curses client
+[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
 written in C++ tailored after ncmpc.
 
 ## Graphical Clients
