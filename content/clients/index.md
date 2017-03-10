@@ -27,4 +27,14 @@ featured client.
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
 
+[Cantata](https://github.com/cdrummond/cantata) - A Qt client.
+
+## Android
+
+[MPDroid](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)
+
+[Droid MPD Client](https://play.google.com/store/apps/details?id=com.soreha.droidmpdclient)
+
+## More
+
 [More clients can be found on the Wiki](http://mpd.wikia.com/wiki/Clients)
