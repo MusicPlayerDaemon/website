@@ -1,5 +1,6 @@
 ---
 title: libmpdclient
+version: "2.10"
 ---
 
 A stable, documented, asynchronous API library for interfacing MPD in
@@ -7,7 +8,13 @@ the C, C++ & Objective C languages.
 
 ## Download
 
-- [Source tarballs](http://www.musicpd.org/download/libmpdclient/)
+<% version = @item[:version] %>
+<% short_version = version =~ /(^\d+)/ ? $1 : version %>
+<% tarball_filename = "libmpdclient-#{version}.tar.xz" %>
+
+- [<%= tarball_filename %>](/download/libmpdclient/<%=short_version%>/<%=tarball_filename%>)
+  ([change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v<%=version%>))
+- [All versions](/download/libmpdclient/)
 - [git repository](http://git.musicpd.org/cgit/master/libmpdclient.git/)
 - [GitHub mirror](https://github.com/MaxKellermann/libmpdclient)
 
