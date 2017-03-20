@@ -1,6 +1,6 @@
 ---
 title: libmpdclient
-version: "2.10"
+version: "2.11"
 ---
 
 A stable, documented, asynchronous API library for interfacing MPD in
