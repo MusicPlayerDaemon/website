@@ -1,6 +1,6 @@
 ---
 title: ncmpc
-version: "0.26"
+version: "0.27"
 ---
 
 ncmpc is a fully featured MPD client, which runs in a terminal (using
