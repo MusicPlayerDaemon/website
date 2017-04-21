@@ -11,4 +11,4 @@ Germany
 <imprint@musicpd.org>
 
 [nanoc](http://nanoc.ws/) source code of this web site can be found in
-the [git repository](http://git.musicpd.org/cgit/master/website.git/).
+the [git repository](https://github.com/MusicPlayerDaemon/website).

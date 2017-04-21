@@ -16,8 +16,7 @@ helpful information from the old wiki to the [user manual](/doc/user/)
 The new website is being managed with [nanoc](http://nanoc.ws/)
 ([LWN article](https://lwn.net/Articles/541299/)).  If you want to
 help,
-[clone the git repository](http://git.musicpd.org/cgit/master/website.git/)
-and
-[send a pull request](https://lists.sourceforge.net/lists/listinfo/musicpd-dev-team).
+[clone the git repository](https://github.com/MusicPlayerDaemon/website)
+and send a pull request.
 The user manual is managed in the
 [MPD git repository](http://git.musicpd.org/cgit/master/mpd.git/tree/doc/user.xml).
