@@ -16,7 +16,7 @@ the C, C++ & Objective C languages.
   ([change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v<%=version%>))
 - [All versions](/download/libmpdclient/)
 - [git repository](http://git.musicpd.org/cgit/master/libmpdclient.git/)
-- [GitHub mirror](https://github.com/MaxKellermann/libmpdclient)
+- [GitHub mirror](https://github.com/MusicPlayerDaemon/libmpdclient)
 
 ## Documentation
 

@@ -16,7 +16,7 @@ A minimalist command line interface to MPD.
   [change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v<%=version%>))
 - [All versions](/download/mpc/)
 - [git repository](http://git.musicpd.org/cgit/master/mpc.git/)
-- [GitHub mirror](https://github.com/MaxKellermann/mpc)
+- [GitHub mirror](https://github.com/MusicPlayerDaemon/mpc)
 
 ## Support and Development
 

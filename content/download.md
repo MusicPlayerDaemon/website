@@ -15,7 +15,7 @@ head_title: Download the Music Player Daemon
 - [mpd.exe for Windows x64](/download/win32/<%=mpd_version%>/mpd.exe)
 - [All versions](/download/mpd/)
 - [git repository](http://git.musicpd.org/cgit/master/mpd.git/)
-  ([GitHub mirror](https://github.com/MaxKellermann/MPD))
+  ([GitHub mirror](https://github.com/MusicPlayerDaemon/MPD))
 
 Release tarballs and git tags are signed with
 [GPG key `C6DB4512`](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x236E8A58C6DB4512).
