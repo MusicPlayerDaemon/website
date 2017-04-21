@@ -26,5 +26,5 @@ Your collaboration is necessary to solve your problem.  We can't help
 you if you don't follow the instructions above.
 
 If MPD *crashes*, do not ask for help!
-[Submit a bug report](http://bugs.musicpd.org/) instead (with a
+[Submit a bug report](https://github.com/MusicPlayerDaemon/MPD/issues) instead (with a
 [full backtrace](/doc/user/bugs.html#crash)).

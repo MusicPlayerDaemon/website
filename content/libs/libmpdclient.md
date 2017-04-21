@@ -21,7 +21,6 @@ the C, C++ & Objective C languages.
 
 [Online API documentation](http://www.musicpd.org/doc/libmpdclient/)
 
-## Support and Development
+## Support
 
-libmpdclient uses MPD's infrastructure (bug tracker, forum, IRC, ...).
-Check the links on the left.
+- [Bug tracker](https://github.com/MusicPlayerDaemon/libmpdclient/issues)

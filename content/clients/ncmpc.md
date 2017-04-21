@@ -29,7 +29,7 @@ Features:
 - [All versions](/download/ncmpc/)
 - [git repository](https://github.com/MusicPlayerDaemon/ncmpc)
 
-## Support and Development
+## Support
 
-ncmpc uses MPD's infrastructure (bug tracker, forum, IRC, ...).  Check
-the links on the left.
+- [Forum](https://forum.musicpd.org/viewforum.php?f=5)
+- [Bug tracker](https://github.com/MusicPlayerDaemon/ncmpc/issues)

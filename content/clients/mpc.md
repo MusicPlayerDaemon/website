@@ -17,7 +17,7 @@ A minimalist command line interface to MPD.
 - [All versions](/download/mpc/)
 - [git repository](https://github.com/MusicPlayerDaemon/mpc)
 
-## Support and Development
+## Support
 
-mpc uses MPD's infrastructure (bug tracker, forum, IRC, ...).  Check
-the links on the left.
+- [Forum](https://forum.musicpd.org/viewforum.php?f=12)
+- [Bug tracker](https://github.com/MusicPlayerDaemon/mpc/issues)
