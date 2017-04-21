@@ -13,10 +13,9 @@ the C, C++ & Objective C languages.
 <% tarball_filename = "libmpdclient-#{version}.tar.xz" %>
 
 - [<%= tarball_filename %>](/download/libmpdclient/<%=short_version%>/<%=tarball_filename%>)
-  ([change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v<%=version%>))
+  [change log](https://raw.githubusercontent.com/MusicPlayerDaemon/libmpdclient/v<%=version%>/NEWS))
 - [All versions](/download/libmpdclient/)
-- [git repository](http://git.musicpd.org/cgit/master/libmpdclient.git/)
-- [GitHub mirror](https://github.com/MusicPlayerDaemon/libmpdclient)
+- [git repository](https://github.com/MusicPlayerDaemon/libmpdclient)
 
 ## Documentation
 
