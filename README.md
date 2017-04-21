@@ -2,7 +2,7 @@
 
 This is the repository that is used to manage the
 [MPD website](http://www.musicpd.org/).  [nanoc](http://nanoc.ws/) is
-uesd to generate HTML from Markdown.
+used to generate HTML from Markdown.
 
 To get started, a few Ruby gems need to be installed:
 
