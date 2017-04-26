@@ -35,6 +35,10 @@ featured client.
 
 [Droid MPD Client](https://play.google.com/store/apps/details?id=com.soreha.droidmpdclient)
 
+## Non-interactive Clients
+
+[mpdscribble](mpdscribble/) - Last.fm scrobbler
+
 ## More
 
 [More clients can be found on the Wiki](http://mpd.wikia.com/wiki/Clients)
