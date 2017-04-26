@@ -25,7 +25,7 @@ Features:
 <% tarball_filename = "ncmpc-#{version}.tar.xz" %>
 
 - [<%= tarball_filename %>](/download/ncmpc/<%=short_version%>/<%=tarball_filename%>)
-  [change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v<%=version%>/NEWS))
+  ([change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v<%=version%>/NEWS))
 - [All versions](/download/ncmpc/)
 - [git repository](https://github.com/MusicPlayerDaemon/ncmpc)
 
