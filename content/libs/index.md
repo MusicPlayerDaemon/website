@@ -9,4 +9,5 @@ implement clients.
 - [python-mpd2](python-mpd2/) - python 2/3 module, a python-mpd fork.
 - [python-musicpd](python-musicpd) - python 3 only, a python-mpd fork.
 
-[More client libraries can be found on the old Wiki](http://mpd.wikia.com/wiki/Client_Libraries)
+There are many more client libraries.  Please help and
+[add them to this list](https://github.com/MusicPlayerDaemon/website).

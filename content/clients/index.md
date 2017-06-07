@@ -41,4 +41,5 @@ featured client.
 
 ## More
 
-[More clients can be found on the Wiki](http://mpd.wikia.com/wiki/Clients)
+There are many more clients.  Please help and
+[add them to this list](https://github.com/MusicPlayerDaemon/website).
