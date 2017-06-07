@@ -22,6 +22,7 @@ Release tarballs and git tags are signed with
 ## Binaries
 
 - [Debian packages](http://packages.debian.org/mpd)
+  (outdated and unsupported by this project)
 - [Windows binaries](/download/win32/)
 
 ## Other
