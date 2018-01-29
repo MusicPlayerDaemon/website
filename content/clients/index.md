@@ -24,6 +24,8 @@ written in C++ tailored after ncmpc.
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ. 
 
+[MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
+
 ## Graphical Clients
 
 [gmpc](http://gmpclient.org/) (Gnome Music Player Client) - A fully
