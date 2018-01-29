@@ -118,21 +118,6 @@ data, and you should make up your mind.
 
 <tr>
 <td>
-  <a rel="nofollow" href="http://moodeaudio.org/">moode audio player</a>
-</td>
-<td>
-  0.20.10
-</td>
-<td>
-  none
-</td>
-<td>
-  <a href="http://moodeaudio.org/docs/SOURCES.html">Sources</a>
-</td>
-</tr>
-
-<tr>
-<td>
   <a rel="nofollow" href="https://plexamp.com/">Plexamp</a>
 </td>
 <td>
