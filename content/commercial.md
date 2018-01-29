@@ -30,7 +30,7 @@ For more information, consult the
 [GPL FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html)
 or your lawyer.  IANAL.
 
-If you disagree with of the above, please don't use MPD, Linux or
+If you disagree with the above, please don't use MPD, Linux or
 anything else under the GPL.  Or else we'll meet in court.
 
 If you need advice or assistance with integrating MPD in your product,
