@@ -91,7 +91,7 @@ data, and you should make up your mind.
   0.19?
 </td>
 <td>
-  MQA, Roon (proprietary, presumably illegal)
+  MQA, Roon RAAT SDK (both proprietary, presumably illegal)
 </td>
 <td>
   <a href="http://mailman.blarg.de/pipermail/mpd-devel/2018-January/000681.html">Requested 2018-01-25</a>
