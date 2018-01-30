@@ -12,7 +12,7 @@ MPD is free software distributed under the terms of the
 [GPL](https://www.gnu.org/licenses/gpl-2.0.html) (just like the Linux
 kernel, for example).  It is allowed to sell commercial products with
 MPD, and with the source code being available, you can tailor it to
-your needs.  But you must to obey the GPL.
+your needs.  But you must obey the GPL.
 
 The most important part is: you **must** provide the source code of
 all GPL components in your product.
