@@ -28,6 +28,9 @@ written in C++ tailored after ncmpc.
 
 ## Graphical Clients
 
+[Sonata](https://github.com/multani/sonata) Client, now ported to Gtk3.
+At the writing time - more recent, compared to some other gtk clients.
+
 [gmpc](http://gmpclient.org/) (Gnome Music Player Client) - A fully
 featured client.
 
