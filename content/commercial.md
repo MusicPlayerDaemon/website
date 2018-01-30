@@ -70,10 +70,40 @@ data, and you should make up your mind.
 
 <tr>
 <td>
+  <a rel="nofollow" href="http://bmc-audio.com/index.php/puremedia-125.html">B.M.C. PureMedia</a>
+</td>
+<td>
+  ?
+</td>
+<td>
+  ?
+</td>
+<td>
+  Not yet requested
+</td>
+</tr>
+
+<tr>
+<td>
   <a rel="nofollow" href="http://www.bryston.com/">Bryston</a>
 </td>
 <td>
   0.15.12, 0.16.7, 0.19.12
+</td>
+<td>
+  ?
+</td>
+<td>
+  Not yet requested
+</td>
+</tr>
+
+<tr>
+<td>
+  <a rel="nofollow" href="http://www.diesisaudio.com/en/product/neptune/">Diesis Audio Neptune</a>
+</td>
+<td>
+  ?
 </td>
 <td>
   ?
