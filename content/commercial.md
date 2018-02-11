@@ -150,6 +150,21 @@ data, and you should make up your mind.
 
 <tr>
 <td>
+  <a rel="nofollow" href="http://easympd.com/">EasyMPD</a>
+</td>
+<td>
+  ?
+</td>
+<td>
+  ?
+</td>
+<td>
+  Not yet requested
+</td>
+</tr>
+
+<tr>
+<td>
   <a rel="nofollow" href="https://plexamp.com/">Plexamp</a>
 </td>
 <td>
