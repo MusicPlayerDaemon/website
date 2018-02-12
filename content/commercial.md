@@ -118,10 +118,10 @@ data, and you should make up your mind.
   <a rel="nofollow" href="http://www.diesisaudio.com/en/product/neptune/">Diesis Audio Neptune</a>
 </td>
 <td>
-  ?
+  0.20.11
 </td>
 <td>
-  ?
+  none
 </td>
 <td>
   Not yet requested
