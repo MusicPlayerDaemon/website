@@ -100,6 +100,21 @@ data, and you should make up your mind.
 
 <tr>
 <td>
+  <a rel="nofollow" href="https://chordelectronics.co.uk/product/poly/">Chord Poly</a>
+</td>
+<td>
+  ?
+</td>
+<td>
+  ?
+</td>
+<td>
+  Not yet requested
+</td>
+</tr>
+
+<tr>
+<td>
   <a rel="nofollow" href="http://www.diesisaudio.com/en/product/neptune/">Diesis Audio Neptune</a>
 </td>
 <td>
