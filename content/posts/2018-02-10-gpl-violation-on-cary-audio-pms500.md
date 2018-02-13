@@ -1,10 +1,10 @@
 ---
-title: GPL Violation in Cary Audio PMS-500
+title: GPL Violation in Cary Audio DMS-500
 created_at: 2018-02-10 10:38:33 +0100
 kind: article
 ---
 
-Cary Audio sells a product called "PMS-500" which is based on MPD.
+Cary Audio sells a product called "DMS-500" which is based on MPD.
 Their MPD binary has been linked with various proprietary libraries,
 including the Roon RAAT SDK and a MQA decoder.
 
