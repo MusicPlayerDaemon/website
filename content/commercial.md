@@ -136,12 +136,13 @@ data, and you should make up your mind.
   0.19?
 </td>
 <td>
-  MQA, Roon RAAT SDK (both proprietary, presumably illegal)
+  MQA, Roon RAAT SDK (both proprietary, illegal)
 </td>
 <td>
   <a href="http://mailman.blarg.de/pipermail/mpd-devel/2018-January/000681.html">Requested 2018-01-25</a>;
   got a tarball on 2018-02-06 with only a part of the source code
-  which doesn't even compile.  MPD license is terminated.
+  which doesn't even compile.  MPD license is terminated and all Cary
+  Audio products containing MPD are illegal.
 </td>
 </tr>
 
