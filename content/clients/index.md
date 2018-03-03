@@ -46,6 +46,8 @@ featured client.
 
 [Droid MPD Client](https://play.google.com/store/apps/details?id=com.soreha.droidmpdclient)
 
+[MPD Remote](https://play.google.com/store/apps/details?id=net.prezz.mpr)
+
 ## Non-interactive Clients
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
