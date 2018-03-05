@@ -15,7 +15,7 @@ written in C.
 
 ## Console Clients
 
-[ncmpc](ncmpc/) - A curses client written in C.
+[ncmpc](ncmpc/) - A curses client written in C++.
 
 [ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
 written in C++ tailored after ncmpc.
