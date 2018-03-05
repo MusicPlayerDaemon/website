@@ -42,10 +42,6 @@ featured client.
 
 [M.A.L.P.](https://github.com/gateship-one/malp)
 
-[MPDroid](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)
-
-[Droid MPD Client](https://play.google.com/store/apps/details?id=com.soreha.droidmpdclient)
-
 ## Non-interactive Clients
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
