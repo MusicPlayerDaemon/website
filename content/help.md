@@ -5,8 +5,8 @@ title: Getting Help
 We have a forum and an IRC channel for requesting help (see links on
 the left).  Before you go there:
 
-- read the [manual](/doc/user/) and its
-  [troubleshooting chapter](/doc/user/troubleshooting.html)
+- read the [manual](/doc/html/user.html) and its
+  [troubleshooting chapter](/doc/html/user.html#chapter-8-troubleshooting)
 - check file permissions
 - check the log file (\-\-verbose)
 - make sure you have the latest MPD version
@@ -27,4 +27,4 @@ you if you don't follow the instructions above.
 
 If MPD *crashes*, do not ask for help!
 [Submit a bug report](https://github.com/MusicPlayerDaemon/MPD/issues) instead (with a
-[full backtrace](/doc/user/bugs.html#crash)).
+[full backtrace](/doc/html/user.html#mpd-crashes)).
