@@ -26,6 +26,8 @@ written in C++ tailored after ncmpc.
 
 [MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
 
+[PiFi Radio](https://github.com/rccavalcanti/pifi-radio) - A minimalist web client to listen to radio.
+
 ## Graphical Clients
 
 [Sonata](https://github.com/multani/sonata) Client, now ported to Gtk3.
