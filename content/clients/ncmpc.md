@@ -29,6 +29,10 @@ Features:
 - [All versions](/download/ncmpc/)
 - [git repository](https://github.com/MusicPlayerDaemon/ncmpc)
 
+## Contributing
+
+- [Help translate ncmpc to your native language](https://hosted.weblate.org/projects/ncmpc/)
+
 ## Support
 
 - [Forum](https://forum.musicpd.org/viewforum.php?f=5)
