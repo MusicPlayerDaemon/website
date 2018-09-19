@@ -7,6 +7,8 @@ ncmpc is a fully featured MPD client, which runs in a terminal (using
 ncurses). Its goal is to provide a keyboard oriented and consistent
 interface to MPD, without wasting resources.
 
+![Screenshot of ncmpc](screenshot.png)
+
 Features:
 
 - full Unicode and wide character support
