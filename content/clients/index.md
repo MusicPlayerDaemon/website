@@ -31,6 +31,8 @@ written in Go with vi-like interface.
 
 [PiFi Radio](https://github.com/rccavalcanti/pifi-radio) - A minimalist web client to listen to radio.
 
+[RompЯ](https://fatg3erman.github.io/RompR/) - A moblie-ready and desktop web client
+
 ## Graphical Clients
 
 [Sonata](https://github.com/multani/sonata) Client, now ported to Gtk3.
