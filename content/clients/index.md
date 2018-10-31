@@ -23,6 +23,8 @@ written in C++ tailored after ncmpc.
 [pms](https://github.com/ambientsound/pms) - A console client
 written in Go with vi-like interface.
 
+[vimpc](https://github.com/boysetsfrog/vimpc) - A curses client with vi-like key bindings.
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ. 
