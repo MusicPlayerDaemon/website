@@ -49,7 +49,7 @@ featured client.
 
 ## Android
 
-[M.A.L.P.](https://github.com/gateship-one/malp)
+[M.A.L.P.](https://gitlab.com/gateship-one/malp)
 
 [MPDroid](https://github.com/abarisain/dmix)
 
