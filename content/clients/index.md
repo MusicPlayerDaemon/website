@@ -25,6 +25,8 @@ written in Go with vi-like interface.
 
 [vimpc](https://github.com/boysetsfrog/vimpc) - A curses client with vi-like key bindings.
 
+[pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ. 
