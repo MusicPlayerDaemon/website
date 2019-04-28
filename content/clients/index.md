@@ -35,7 +35,9 @@ written in Go with vi-like interface.
 
 [PiFi Radio](https://github.com/rccavalcanti/pifi-radio) - A minimalist web client to listen to radio.
 
-[RompЯ](https://fatg3erman.github.io/RompR/) - A moblie-ready and desktop web client
+[RompЯ](https://fatg3erman.github.io/RompR/) - A mobile-ready and desktop web client
+
+[cyp](https://github.com/ondras/cyp) - A responsive web client based on [ws2mpd](https://github.com/ondras/ws2mpd/) with Youtube-dl integration
 
 ## Graphical Clients
 
