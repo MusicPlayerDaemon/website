@@ -29,7 +29,7 @@ written in Go with vi-like interface.
 
 ## Web Clients
 
-[netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ. 
+[netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
 
 [MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
 
@@ -38,6 +38,8 @@ written in Go with vi-like interface.
 [RompЯ](https://fatg3erman.github.io/RompR/) - A mobile-ready and desktop web client
 
 [cyp](https://github.com/ondras/cyp) - A responsive web client based on [ws2mpd](https://github.com/ondras/ws2mpd/) with Youtube-dl integration
+
+[ympd](https://ympd.org/) - a web GUI written in C, using websockets and bootstrap.js
 
 ## Graphical Clients
 
