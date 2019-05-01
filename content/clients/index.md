@@ -65,6 +65,8 @@ featured client.
 
 [MPDroid](https://github.com/abarisain/dmix)
 
+[MPD Client](https://github.com/Old-Geek/MPDClient)
+
 ## Non-interactive Clients
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
