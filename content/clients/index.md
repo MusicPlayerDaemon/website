@@ -53,6 +53,12 @@ featured client.
 
 [Cantata](https://github.com/cdrummond/cantata) - A Qt client.
 
+## MacOS
+
+[MPD Client](https://github.com/Old-Geek/MPD-Client) - Written in Objective-C.
+
+[Persephone](https://github.com/danbee/persephone) - Written in Swift.
+
 ## Android
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp)
