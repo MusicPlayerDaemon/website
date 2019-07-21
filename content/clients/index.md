@@ -63,6 +63,10 @@ featured client.
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
 
+## Adapter
+
+[Togglempc](https://github.com/christianwicke/togglempc) - A small REST server that accepts HTTP post requests to toggle play and pause and switch playlist.
+
 ## More
 
 There are many more clients.  Please help and
