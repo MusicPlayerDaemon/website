@@ -43,21 +43,37 @@ written in Go with vi-like interface.
 
 ## Graphical Clients
 
-[Sonata](https://github.com/multani/sonata) Client, now ported to Gtk3.
-At the writing time - more recent, compared to some other gtk clients.
-
-[gmpc](http://gmpclient.org/) (Gnome Music Player Client) - A fully
-featured client.
-
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
 
 [Cantata](https://github.com/cdrummond/cantata) - A Qt client.
 
+[CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
+
+[gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
+featured client.
+
+[pympd](http://pympd.sourceforge.net/) - Pymp'd is a frontend for mpd in the style of rhythmbox and itunes
+
+[QMPDClient](http://bitcheese.net/QMPDClient/) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
+
+[Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
+
+[Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
+At the writing time - more recent, compared to some other gtk clients.
+
+[Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
+
+[Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
+
+[Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
+
+[YMPD](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
+
 ## Android
 
-[M.A.L.P.](https://gitlab.com/gateship-one/malp)
+[M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
 
-[MPDroid](https://github.com/abarisain/dmix)
+[MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
 
 ## Non-interactive Clients
 
