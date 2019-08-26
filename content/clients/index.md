@@ -67,6 +67,10 @@ written in Go with vi-like interface.
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
 
+## iOS
+
+[MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
+
 ## Non-interactive Clients
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
