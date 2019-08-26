@@ -63,17 +63,23 @@ At the writing time - more recent, compared to some other gtk clients.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
 
+[Theremin](https://github.com/kampfgnu/Theremin) A MDP client in Objective-C with binaries for MacOS (at least up to High Sierra)
+
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
 
 [YMPD](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 
-## Android
+## Android / iOS
 
-[M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
+[M.A.L.P.](https://gitlab.com/gateship-one/malp) - A MPD client for Android
+
+[MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MDP client for iOS
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
+
+[Soundirok](https://www.kvibes.de/soundirok/) - A commercial mpd client for Android and iOS with a targeted at Volumio and Runeaudio.
 
 ## Non-interactive Clients
 
