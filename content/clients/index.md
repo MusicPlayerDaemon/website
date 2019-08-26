@@ -8,6 +8,8 @@ and server (MPD is the server) interact over a network.  Thus, running
 MPD is only half of the equation.  To use MPD, you need to install a
 MPD client (aka MPD interface).
 
+This is an (incomplete) list of free and open source MPD clients.
+
 ## Command-line Clients
 
 [mpc](mpc/) - a solid, lightweight, simple mpd client,
