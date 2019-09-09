@@ -19,9 +19,6 @@ written in C.
 
 [ncmpc](ncmpc/) - A curses client written in C++.
 
-[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
-written in C++ tailored after ncmpc.
-
 [pms](https://github.com/ambientsound/pms) - A console client
 written in Go with vi-like interface.
 
@@ -45,21 +42,11 @@ written in Go with vi-like interface.
 
 ## Graphical Clients
 
-[ario](http://ario-player.sourceforge.net/) - Another GTK based client.
-
 [Cantata](https://github.com/cdrummond/cantata) - A Qt client.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
-[gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
-featured client.
-
-[QMPDClient](http://bitcheese.net/QMPDClient/) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
-
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
-
-[Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
-At the writing time - more recent, compared to some other gtk clients.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
 
@@ -73,7 +60,20 @@ At the writing time - more recent, compared to some other gtk clients.
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
 
-## Non-interactive Clients
+## Unmaintained Clients
+
+[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
+written in C++ tailored after ncmpc.
+
+[ario](http://ario-player.sourceforge.net/) - Another GTK based client.
+
+[gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
+featured client.
+
+[QMPDClient](http://bitcheese.net/QMPDClient/) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
+
+[Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
+At the writing time - more recent, compared to some other gtk clients.
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
 
