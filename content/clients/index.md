@@ -69,8 +69,6 @@ At the writing time - more recent, compared to some other gtk clients.
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
 
-[YMPD](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
-
 ## Android
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
