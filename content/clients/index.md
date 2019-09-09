@@ -54,8 +54,6 @@ written in Go with vi-like interface.
 [gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
 featured client.
 
-[pympd](http://pympd.sourceforge.net/) - Pymp'd is a frontend for mpd in the style of rhythmbox and itunes
-
 [QMPDClient](http://bitcheese.net/QMPDClient/) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
 
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
