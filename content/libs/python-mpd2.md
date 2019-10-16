@@ -16,11 +16,11 @@ python-mpd2 is de facto the current fork of python-mpd which is unmaintained now
 
 [git repository](https://github.com/Mic92/python-mpd2)
 
-[Pypi](https://pypi.python.org/pypi/python-mpd2): pip install python-mpd2
+[Pypi](https://pypi.org/project/python-mpd2/): pip install python-mpd2
 
 ## Documentation
 
-[Online API documentation](http://pythonhosted.org/python-mpd2/)
+[Online API documentation](https://python-mpd2.readthedocs.io/en/latest/)
 
 ## Support and Development
 

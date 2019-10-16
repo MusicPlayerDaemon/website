@@ -8,13 +8,13 @@ In comparison with [python-mpd2](../python-mpd2) this module intends to keep thi
 
 ## Download
 
-[Download from PyPI](https://pypi.python.org/pypi/python-musicpd): pip install python-musicpd
+[Download from PyPI](https://pypi.org/pypi/python-musicpd): pip install python-musicpd
 
 [git repository](http://git.kaliko.me/?p=python-musicpd.git)
 
 ## Documentation
 
-[Online API documentation](https://pypi.python.org/pypi/python-musicpd)
+[Online API documentation](https://kaliko.gitlab.io/python-musicpd/)
 
 ## Support and Development
 
