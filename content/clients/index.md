@@ -19,6 +19,9 @@ written in C.
 
 [ncmpc](ncmpc/) - A curses client written in C++.
 
+[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
+written in C++ tailored after ncmpc.
+
 [pms](https://github.com/ambientsound/pms) - A console client
 written in Go with vi-like interface.
 
@@ -61,9 +64,6 @@ written in Go with vi-like interface.
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
 
 ## Unmaintained Clients
-
-[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
-written in C++ tailored after ncmpc.
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
 
