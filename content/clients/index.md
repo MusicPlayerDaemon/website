@@ -60,6 +60,10 @@ written in Go with vi-like interface.
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
 
+## Non-interactive Clients
+
+[mpdscribble](mpdscribble/) - Last.fm scrobbler
+
 ## Unmaintained Clients
 
 [ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
@@ -74,8 +78,6 @@ featured client.
 
 [Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
 At the writing time - more recent, compared to some other gtk clients.
-
-[mpdscribble](mpdscribble/) - Last.fm scrobbler
 
 ## More
 
