@@ -19,12 +19,19 @@ written in C.
 
 [ncmpc](ncmpc/) - A curses client written in C++.
 
+[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
+written in C++ tailored after ncmpc.
+
 [pms](https://github.com/ambientsound/pms) - A console client
 written in Go with vi-like interface.
 
 [vimpc](https://github.com/boysetsfrog/vimpc) - A curses client with vi-like key bindings.
 
 [pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
+
+## Utility clients
+
+[MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
 
 ## Web Clients
 
@@ -65,9 +72,6 @@ written in Go with vi-like interface.
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
 
 ## Unmaintained Clients
-
-[ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
-written in C++ tailored after ncmpc.
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
 
