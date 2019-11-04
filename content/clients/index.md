@@ -26,6 +26,10 @@ written in Go with vi-like interface.
 
 [pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
 
+## Utility clients
+
+[MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
