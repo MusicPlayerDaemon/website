@@ -6,7 +6,7 @@ We have a forum and an IRC channel for requesting help (see links on
 the left).  Before you go there:
 
 - read the [manual](/doc/html/user.html) and its
-  [troubleshooting chapter](/doc/html/user.html#chapter-8-troubleshooting)
+  [troubleshooting chapter](/doc/html/user.html#troubleshooting)
 - check file permissions
 - check the log file (\-\-verbose)
 - make sure you have the latest MPD version
