@@ -18,12 +18,12 @@ Add the [key *0x065FE53932DC551D*](https://media.kaliko.me/kaliko.gpg) to `/etc/
 
 Then, add the sources, for **Debian** (`amd64` only):
 
-    # Add this line in /etc/apt/sources.list.d/deb.kaliko.me.lists
+    # Add this line in /etc/apt/sources.list.d/deb.kaliko.me.list
     deb https://deb.kaliko.me/debian-backports/ stable-backports main
 
 Or, for **Raspbian** (`armhf` only)
 
-    # Add this line in /etc/apt/sources.list.d/deb.kaliko.me.lists
+    # Add this line in /etc/apt/sources.list.d/deb.kaliko.me.list
     deb https://deb.kaliko.me/raspbian-backports/ stable-backports main
 
 Now update the package index files with “`apt update`”.  
