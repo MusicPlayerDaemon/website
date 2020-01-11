@@ -53,6 +53,8 @@ written in Go with vi-like interface.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
+[mpdevil](https://github.com/SoongNoonien/mpdevil) - A small GTK+ MPD client written in python
+
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
