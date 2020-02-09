@@ -69,6 +69,10 @@ written in Go with vi-like interface.
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
 
+## Wear OS
+
+[MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
+
 ## iOS
 
 [MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
