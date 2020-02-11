@@ -103,13 +103,13 @@ data, and you should make up your mind.
   <a rel="nofollow" href="https://chordelectronics.co.uk/product/poly/">Chord Poly</a>
 </td>
 <td>
-  ?
+  0.20.20
 </td>
 <td>
-  ?
+  none
 </td>
 <td>
-  Not yet requested
+  <a href="https://nextcloud.chordelectronics.co.uk/nextcloud/s/CwL6jxxQ7We69ed">mpd-0.20.20-poly.abc</a>
 </td>
 </tr>
 
