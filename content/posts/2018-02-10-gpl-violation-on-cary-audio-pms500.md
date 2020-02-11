@@ -4,6 +4,9 @@ created_at: 2018-02-10 10:38:33 +0100
 kind: article
 ---
 
+*Update* (2020/02/11) this issue has been resolved meanwhile.  Cary
+Audio has published the modified MPD source code.
+
 Cary Audio sells a product called "DMS-500" which is based on MPD.
 Their MPD binary has been linked with various proprietary libraries,
 including the Roon RAAT SDK and a MQA decoder.

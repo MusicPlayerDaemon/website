@@ -130,19 +130,16 @@ data, and you should make up your mind.
 
 <tr>
 <td>
-  <a rel="nofollow" href="https://www.caryaudio.com/products/dms-500-network-audio-player/">Cary Audio DMS-500</a>
+  <a rel="nofollow" href="https://www.caryaudio.com/products/dms-500-network-audio-player/">Cary Audio DMS-500/600</a>
 </td>
 <td>
-  0.19?
+  0.21 pre-alpha
 </td>
 <td>
-  MQA, Roon RAAT SDK (both proprietary, illegal)
 </td>
 <td>
-  <a href="http://mailman.blarg.de/pipermail/mpd-devel/2018-January/000681.html">Requested 2018-01-25</a>;
-  got a tarball on 2018-02-06 with only a part of the source code
-  which doesn't even compile.  MPD license is terminated and all Cary
-  Audio products containing MPD are illegal.
+  <a href="https://www.caryaudio.com/wp-content/uploads/2020/02/mpd-caryaudio-aios-20200210.tar.gz">mpd-caryaudio-aios-20200210.tar.gz</a>,
+  <a href="https://www.caryaudio.com/wp-content/uploads/2020/02/mpd-caryaudio-600-20200210.tar.gz">mpd-caryaudio-600-20200210.tar.gz</a>
 </td>
 </tr>
 
