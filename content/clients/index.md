@@ -57,6 +57,8 @@ written in Go with vi-like interface.
 
 [mpdevil](https://github.com/SoongNoonien/mpdevil) - A small GTK+ MPD client written in python
 
+[Persephone](https://persephone.fm) - A modern, native client for macOS
+
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
