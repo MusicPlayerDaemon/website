@@ -47,6 +47,8 @@ written in Go with vi-like interface.
 
 [ympd](https://ympd.org/) - a web GUI written in C, using websockets and bootstrap.js
 
+[myMPD](https://jcorporation.github.io/myMPD/) - An evolution of ympd, with minimal resource usage and dynamic playlist integration
+
 [ampd](https://github.com/rain0r/ampd) - A modern and mobile-friendly web UI using Spring Boot, Angular and websockets.
 
 ## Graphical Clients
