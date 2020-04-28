@@ -49,6 +49,8 @@ written in Go with vi-like interface.
 
 [ampd](https://github.com/rain0r/ampd) - A modern and mobile-friendly web UI using Spring Boot, Angular and websockets.
 
+[audioloader](https://github.com/krisek/audioloader) -  A responsive web client with special focus on listening full albums.
+
 ## Graphical Clients
 
 [Cantata](https://github.com/cdrummond/cantata) - A Qt client.
