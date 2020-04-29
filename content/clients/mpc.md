@@ -19,5 +19,6 @@ A minimalist command line interface to MPD.
 
 ## Support
 
+- [Documentation](/doc/mpc/html/)
 - [Forum](https://forum.musicpd.org/viewforum.php?f=12)
 - [Bug tracker](https://github.com/MusicPlayerDaemon/mpc/issues)
