@@ -67,11 +67,11 @@ written in Go with vi-like interface.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
 
-[Ymuse](https://github.com/yktoo/ymuse) - Easy, functional, and snappy GTK client for Music Player Daemon (MPD) written in Go.
-
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
+
+[Ymuse](https://github.com/yktoo/ymuse) - Easy, functional, and snappy GTK client for Music Player Daemon (MPD) written in Go.
 
 ## Android
 
