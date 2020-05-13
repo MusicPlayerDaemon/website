@@ -55,8 +55,6 @@ written in Go with vi-like interface.
 
 ## Graphical Clients
 
-[Cantata](https://github.com/cdrummond/cantata) - A Qt client.
-
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
 [mpdevil](https://github.com/SoongNoonien/mpdevil) - A small GTK+ MPD client written in python
@@ -92,6 +90,8 @@ written in Go with vi-like interface.
 ## Unmaintained Clients
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
+
+[Cantata](https://github.com/cdrummond/cantata) - A Qt client.
 
 [gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
 featured client.
