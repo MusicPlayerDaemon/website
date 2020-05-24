@@ -81,7 +81,9 @@ written in Go with vi-like interface.
 
 [MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
 
-## iOS
+## MacOS, iOS
+
+[Rigelian](https://apps.apple.com/us/app/rigelian/id1363775934) - The easiest way to control mpd from MacOS, iPhone, and iPad
 
 [MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
 
