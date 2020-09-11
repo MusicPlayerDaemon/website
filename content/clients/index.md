@@ -65,6 +65,8 @@ written in Go with vi-like interface.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
 
+[Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows 10 devices
+
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
