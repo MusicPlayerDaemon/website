@@ -18,3 +18,5 @@ To view your version of the website, type:
 
 This runs a webserver, which you can
 [view in a browser](http://localhost:3000/).
+
+I am happy if you install this...
