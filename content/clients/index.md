@@ -29,6 +29,8 @@ written in Go with vi-like interface.
 
 [pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
 
+[nncmpp](https://git.janouch.name/p/nncmpp) - A basic curses client that looks like Sonata.
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
