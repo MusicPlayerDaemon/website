@@ -33,6 +33,8 @@ written in Go with vi-like interface.
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
 
+[mpd-ynca](https://github.com/chewi/mpd-ynca) - A non-interactive client to control Yamaha AV receivers with YNCA (network control) support.
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
