@@ -31,6 +31,8 @@ written in Go with vi-like interface.
 
 [nncmpp](https://git.janouch.name/p/nncmpp) - A basic curses client that looks like Sonata.
 
+[mmtc](https://github.com/figsoda/mmtc) - A minimal mpd terminal client
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
