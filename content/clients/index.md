@@ -33,6 +33,8 @@ written in Go with vi-like interface.
 
 [mmtc](https://github.com/figsoda/mmtc) - A minimal mpd terminal client
 
+[mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
