@@ -93,6 +93,8 @@ written in Go with vi-like interface.
 
 ## iOS
 
+[MPDPilot](https://apps.apple.com/us/app/mpd-pilot/id1536331909) - A modern MPD client for iOS
+
 [MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
 
 ## Non-interactive Clients
