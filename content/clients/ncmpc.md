@@ -37,6 +37,6 @@ Features:
 
 ## Support
 
-- [Documentation](/doc/ncmpc/html/)
+- [Documentation](https://ncmpc.readthedocs.io/en/latest/)
 - [Forum](https://forum.musicpd.org/viewforum.php?f=5)
 - [Bug tracker](https://github.com/MusicPlayerDaemon/ncmpc/issues)
