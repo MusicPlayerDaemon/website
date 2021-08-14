@@ -47,7 +47,7 @@ written in Go with vi-like interface.
 
 [MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
 
-[PiFi Radio](https://github.com/rccavalcanti/pifi-radio) - A minimalist web client to listen to radio.
+[PiFi Radio](https://rafaelc.org/pifi) - A minimalist web client to listen to radio (archived).
 
 [RompЯ](https://fatg3erman.github.io/RompR/) - A mobile-ready and desktop web client
 
