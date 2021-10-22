@@ -22,7 +22,7 @@ Release tarballs and git tags are signed with
 
 - [Official Debian packages](http://packages.debian.org/mpd)
   (outdated and unsupported by this project)
-- [Unofficial Debian/Raspbian packages](/download-unoff-debian)
+- [Unofficial Debian/Raspberry Pi OS packages](/download-unoff-debian)
 - [mpd.exe for Windows x64](/download/win32/<%=mpd_version%>/mpd.exe)
 - [All Windows binaries](/download/win32/)
 

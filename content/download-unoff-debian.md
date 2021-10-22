@@ -7,7 +7,7 @@ You can find Debian packages for latest MPD release in unofficial repositories.
 ## kaliko's repositories
 
 These repositories expose backported packages for the current stable version of
-Debian and Raspbian.
+Debian and Raspberry Pi OS (previously called Raspbian).
 
 ### Setting up the repo (as root)
 
@@ -28,7 +28,7 @@ for **Debian** (`amd64` only):
     deb [signed-by=/usr/share/keyrings/deb.kaliko.me.gpg] https://deb.kaliko.me/debian-backports/ buster-backports main
 
 
-Or, for **Raspbian** (`armhf` only)
+for **Raspberry Pi OS** (`armhf` only)
 
     # Add this line in /etc/apt/sources.list.d/deb.kaliko.me.list
     deb [signed-by=/usr/share/keyrings/deb.kaliko.me.gpg] https://deb.kaliko.me/raspios-backports/ buster-backports main
