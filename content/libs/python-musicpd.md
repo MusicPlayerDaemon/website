@@ -2,15 +2,15 @@
 title: python-musicpd
 ---
 
-A python 3 only module. python-musicpd is a port of python-mpd to python3 with no intention to support python2.
+python-musicpd is a port of the now defunct python-mpd to python3.
 
-In comparison with [python-mpd2](../python-mpd2) this module intends to keep things simple (python3 only, no logging), this is a plain evolution of python-mpd.
+In comparison with [python-mpd2](../python-mpd2) this module intends to keep things simple, this is a plain evolution of python-mpd.
 
 ## Download
 
-[Download from PyPI](https://pypi.org/pypi/python-musicpd): pip install python-musicpd
-
-[git repository](http://git.kaliko.me/?p=python-musicpd.git)
+ * [PyPI](https://pypi.org/pypi/python-musicpd): `pip install python-musicpd`
+ * [git](http://git.kaliko.me/?p=python-musicpd.git): `git clone git://git.kaliko.me/python-musicpd.git`
+ * forge: [gitlab.com/kaliko/python-musicpd](https://gitlab.com/kaliko/python-musicpd)
 
 ## Documentation
 
