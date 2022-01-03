@@ -94,6 +94,7 @@ written in Go with vi-like interface.
 ## iOS
 
 [MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
+[Rigelian](https://www.rigelian.net/) - A MPD client for iOS and MacOS
 
 ## Non-interactive Clients
 
