@@ -61,6 +61,8 @@ written in Go with vi-like interface.
 
 [audioloader](https://github.com/krisek/audioloader) -  A responsive web client with special focus on listening full albums.
 
+[cryMPD](https://github.com/mamantoha/cryMPD) -  Completed MPD Web client based on Crystal.
+
 ## Graphical Clients
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
