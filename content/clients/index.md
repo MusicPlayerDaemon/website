@@ -101,6 +101,10 @@ written in Go with vi-like interface.
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
 
+## Voice Clients
+
+[alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
+
 ## Unmaintained Clients
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
