@@ -12,7 +12,7 @@ Debian and Raspberry Pi OS (previously called Raspbian).
 ### Setting up the repo (as root)
 
 First, get the signing key in apt keyring.  
-Add the [key *0x065FE53932DC551D*](https://media.kaliko.me/kaliko.gpg) to `/etc/apt/trusted.gpg.d/` :
+Add the [key *0x065FE53932DC551D*](https://media.kaliko.me/kaliko.gpg) to `/usr/share/keyrings/` :
 
     wget -O /usr/share/keyrings/deb.kaliko.me.gpg https://media.kaliko.me/kaliko.gpg
 
