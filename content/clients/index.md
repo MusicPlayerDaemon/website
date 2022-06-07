@@ -67,6 +67,8 @@ written in Go with vi-like interface.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
+[MPDCtrl](https://github.com/torum/MPDCtrl) - A client app for Windows desktop.
+
 [mpdevil](https://github.com/SoongNoonien/mpdevil) - A small GTK+ MPD client written in python
 
 [Persephone](https://persephone.fm) - A modern, native client for macOS
