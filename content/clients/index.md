@@ -77,7 +77,7 @@ written in Go with vi-like interface.
 
 [Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
 
-[Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows 10 devices
+[Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows and Xbox; Also available on iOS!
 
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
@@ -98,6 +98,8 @@ written in Go with vi-like interface.
 ## iOS
 
 [MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
+
+[Stylophone](https://github.com/Difegue/Stylophone) - A modern, native client for iOS/iPadOS; Also available on Windows!
 
 ## Non-interactive Clients
 
