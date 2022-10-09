@@ -75,7 +75,7 @@ written in Go with vi-like interface.
 
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
 
-[Skympc](https://github.com/soramimi/SkyMPC) - Yet anthoer QT(5) Client
+[Skympc](https://github.com/soramimi/SkyMPC) - Yet another QT(5) Client
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows and Xbox; Also available on iOS!
 
