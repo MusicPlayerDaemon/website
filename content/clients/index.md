@@ -126,4 +126,4 @@ At the writing time - more recent, compared to some other gtk clients.
 ## More
 
 There are many more clients.  Please help and
-[add them to this list](https://github.com/MusicPlayerDaemon/website).
+[add them to this list](https://github.com/MusicPlayerDaemon/website/blob/master/content/clients/index.md).
