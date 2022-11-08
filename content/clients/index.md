@@ -101,6 +101,8 @@ written in Go with vi-like interface.
 
 [MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
 
+[Shinobu](https://github.com/Nyx0uf/Shinobu) - Modern and native client for iOS (iPhone / iPad)
+
 [Stylophone](https://github.com/Difegue/Stylophone) - A modern, native client for iOS/iPadOS; Also available on Windows!
 
 ## Non-interactive Clients
