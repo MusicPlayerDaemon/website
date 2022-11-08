@@ -41,6 +41,8 @@ written in Go with vi-like interface.
 
 [mpd-ynca](https://github.com/chewi/mpd-ynca) - A non-interactive client to control Yamaha AV receivers with YNCA (network control) support.
 
+[bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
