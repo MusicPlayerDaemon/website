@@ -9,9 +9,9 @@ libmpdclient
 [2.9](/download/libmpdclient/2/libmpdclient-2.9.tar.xz)
 has been released.  It adds support for the upcoming MPD 0.18
 protocol.
-[Change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v2.9)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/libmpdclient/v2.9/NEWS)
 
 mpc [0.24](/download/mpc/0/mpc-0.24.tar.xz) has
 been released.  It fixes various minor bugs and also adds support for
 MPD 0.18.
-[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v0.24)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/mpc/v0.24/NEWS)

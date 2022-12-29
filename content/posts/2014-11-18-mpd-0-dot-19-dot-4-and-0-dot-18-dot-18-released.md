@@ -12,9 +12,9 @@ It fixes a crash bug that can occur on malformed file names.  The
 `ffmpeg` decoder now supports the Opus codec, and the `opus` decoder
 recognizes more MIME types.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19.4)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.4/NEWS)
 
 For conservative users, Music Player Daemon
 [0.18.18](/download/mpd/0.18/mpd-0.18.18.tar.xz) has been released.
 It contains backports of the above bug fixes (if applicable).
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.18)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.18/NEWS)

@@ -11,4 +11,4 @@ has been released.
 It fixes several DSD playback bugs, a bug in the periodic state file
 saver and a bug in the `seekcur` protocol command.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.13)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.13/NEWS)

@@ -10,4 +10,4 @@ been released.  It fixes a crash when adding absolute paths.  The
 `playlist` command can now show the contents of stored playlists.  The
 `search` command supports `--format`.
 
-[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v0.26)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/mpc/v0.26/NEWS)

@@ -13,9 +13,9 @@ It fixes crash and deadlock bugs in the plugins `nfs`, `zzip`,
 removed due to a license conflict (MPL 1.1 is not compatible with the
 GPL).
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19.5)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.5/NEWS)
 
 For conservative users, Music Player Daemon
 [0.18.19](/download/mpd/0.18/mpd-0.18.19.tar.xz) has been released.
 It contains backports of the above bug fixes (if applicable).
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.19)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.19/NEWS)

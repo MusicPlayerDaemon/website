@@ -13,9 +13,9 @@ redirected streams and streams with query string, negative replay gain
 values in the `mad` plugin, problems with native DSD playback.  It
 adds support for `*.m3u8` and `audio/aacp`.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19.2)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.2/NEWS)
 
 For conservative users, Music Player Daemon
 [0.18.17](/download/mpd/0.18/mpd-0.18.17.tar.xz) has been released.
 It contains backports of the above bug fixes (if applicable).
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.17)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.17/NEWS)

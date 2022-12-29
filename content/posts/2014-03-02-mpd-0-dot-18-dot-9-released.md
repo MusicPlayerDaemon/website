@@ -13,4 +13,4 @@ bug, eliminating noise during song change.  Child processes launched
 by the "pipe" output plugin no longer ignore signals.  Several build
 failures have been fixed.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.9)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.9/NEWS)

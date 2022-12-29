@@ -11,4 +11,4 @@ has been released.
 It fixes various minor bugs, one build failure with uClibc and two
 build failures on Mac OS X.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.6)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.6/NEWS)

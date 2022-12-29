@@ -15,4 +15,4 @@ ncmpc now builds with
 [Meson](http://mesonbuild.com/)/[Ninja](https://ninja-build.org/)
 instead of autotools.
 
-[Change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v0.28)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v0.28/NEWS)

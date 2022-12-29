@@ -12,4 +12,4 @@ It fixes a crash bug with `ffmpeg`/`libav` version 11, two more crash
 bugs related to seeking, and a range parser bug on certain 32 bit
 architectures (such as ARM).
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.14)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.14/NEWS)

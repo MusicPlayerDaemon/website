@@ -12,4 +12,4 @@ It fixes various bugs: one playback with volume normalization enabled,
 an ALSA endless loop, whitespace problems in the protocol parser and a
 few networking tweaks.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.1)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.1/NEWS)

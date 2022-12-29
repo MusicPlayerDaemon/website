@@ -11,4 +11,4 @@ has been released.
 It fixes the "Operation now in progress" bug, and fixes a problem with
 Meson version 0.38.1 or newer.
 
-[Change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v2.13)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/libmpdclient/v2.13/NEWS)

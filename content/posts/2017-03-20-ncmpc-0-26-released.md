@@ -13,4 +13,4 @@ displayed properly.  The connection to MPD is established
 asynchronously, i.e. ncmpc stays responsive while waiting for the
 connect.
 
-[Change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v0.26)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v0.26/NEWS)

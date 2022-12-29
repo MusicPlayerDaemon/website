@@ -12,4 +12,4 @@ It fixes a crash in the `pls` playlist plugin and a memory leak in the
 `faad` decoder plugin.  Supplementary groups are only initalized when
 MPD is started by user `root`.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.7)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.7/NEWS)

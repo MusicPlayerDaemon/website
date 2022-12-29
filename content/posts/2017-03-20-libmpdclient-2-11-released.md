@@ -11,4 +11,4 @@ has been released.
 It fixes various bugs and adds initial support for new MPD 0.21
 protocol features.
 
-[Change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v2.11)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/libmpdclient/v2.11/NEWS)

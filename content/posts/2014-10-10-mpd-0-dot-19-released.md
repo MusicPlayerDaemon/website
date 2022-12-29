@@ -25,4 +25,4 @@ major ones:
 As usual, a more detailed list of changes can be found in the `NEWS`
 file:
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19/NEWS)

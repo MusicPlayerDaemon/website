@@ -12,4 +12,4 @@ It fixes two crash bugs after connection failure, re-adds the
 "lyrics_plugin_dir" compile-time option and allows detecting
 libncurses without pkg-config.
 
-[Change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v0.29)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v0.29/NEWS)

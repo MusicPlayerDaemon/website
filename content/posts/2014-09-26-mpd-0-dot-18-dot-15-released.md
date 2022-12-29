@@ -11,4 +11,4 @@ has been released.
 It fixes a problem with large command lists, fixes an old breakage of
 the MixRamp feature, and works around a build failure on NetBSD.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.15)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.15/NEWS)

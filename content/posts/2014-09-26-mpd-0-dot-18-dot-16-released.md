@@ -10,4 +10,4 @@ has been released.
 
 It fixes a DSD breakage due to a typo in the previous release.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.16)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.16/NEWS)

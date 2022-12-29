@@ -9,11 +9,11 @@ been released.
 It improves the `listall` and `searchplay` commands, and adds a new
 `pause-if-playing` command.  The new environment variable `MPC_FORMAT`
 is used if no other output format is specified.
-[Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v0.28)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/mpc/v0.28/NEWS)
 
 ncmpc [0.25](/download/ncmpc/0/ncmpc-0.25.tar.xz) has
 been released.
 It adds a new `%disc%` format and fixes various LyricsWiki problems.
 Previously missing `*.m4` files required by the `configure` script
 have been added to the tarball.
-[Change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v0.25)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v0.25/NEWS)

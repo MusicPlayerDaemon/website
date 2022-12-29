@@ -13,9 +13,9 @@ plugin, the `listplaylist` protocol command and a whole bunch of bugs
 in the NFS client.  On the Windows port, a serious crash bug was
 fixed.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19.7)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.7/NEWS)
 
 For conservative users, Music Player Daemon
 [0.18.21](/download/mpd/0.18/mpd-0.18.21.tar.xz) has been released.
 It contains backports of the above bug fixes (if applicable).
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.21)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.21/NEWS)

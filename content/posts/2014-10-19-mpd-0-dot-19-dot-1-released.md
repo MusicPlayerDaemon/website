@@ -12,4 +12,4 @@ It adds the `systemd` socket file that was missing in the 0.19
 tarball, fixes bugs in the `mms` input plugin and the `m3u` playlist
 plugins.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19.1)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.1/NEWS)

@@ -12,4 +12,4 @@ It fixes bugs in the `upnp` database plugin, the `audiofile` decoder
 and the `soxr` resampler.  The `opus` decoder can now play chained
 streams.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.19.3)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.3/NEWS)

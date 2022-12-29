@@ -11,4 +11,4 @@ been released.
 It fixes connecting to MPD if `/var/run/mpd/socket` does not exist.
 The useless status bar clock has been removed completely.
 
-[Change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v0.27)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/ncmpc/v0.27/NEWS)

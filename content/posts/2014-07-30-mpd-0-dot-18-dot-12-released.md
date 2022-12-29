@@ -14,4 +14,4 @@ improves stream playback with the decoder plugins `audiofile`,
 "random" mode ensure that the first and second song being played are
 really random.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.12)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.12/NEWS)

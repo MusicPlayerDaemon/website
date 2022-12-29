@@ -14,4 +14,4 @@ libmpdclient now builds with
 [Meson](http://mesonbuild.com/)/[Ninja](https://ninja-build.org/)
 instead of autotools.
 
-[Change log](http://git.musicpd.org/cgit/master/libmpdclient.git/plain/NEWS?h=v2.12)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/libmpdclient/v2.12/NEWS)

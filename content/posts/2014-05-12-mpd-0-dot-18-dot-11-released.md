@@ -12,4 +12,4 @@ It fixes a race condition on non-Linux operating systems, disturbing
 the database update and more.  The `opus` decoder plugin now properly
 recognizes song durations on high-latency files.
 
-[Change log](http://git.musicpd.org/cgit/master/mpd.git/plain/NEWS?h=v0.18.11)
+[Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.18.11/NEWS)
