@@ -5,7 +5,7 @@ kind: article
 published: false
 ---
 
-mpc [0.25](http://www.musicpd.org/download/mpc/0/mpc-0.25.tar.xz) has
+mpc [0.25](/download/mpc/0/mpc-0.25.tar.xz) has
 been released.  It fixes a problem with the `insert` command and
 optimizes the tab completion commands.
 

@@ -5,6 +5,6 @@ kind: article
 published: false
 ---
 
-mpc [0.23](http://www.musicpd.org/download/mpc/0/mpc-0.23.tar.bz2) has
+mpc [0.23](/download/mpc/0/mpc-0.23.tar.bz2) has
 been released.
 [Change log](http://git.musicpd.org/cgit/master/mpc.git/plain/NEWS?h=v0.23)

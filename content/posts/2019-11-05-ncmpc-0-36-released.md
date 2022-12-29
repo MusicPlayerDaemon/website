@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.36](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.36.tar.xz) has
+[0.36](/download/ncmpc/0/ncmpc-0.36.tar.xz) has
 been released.
 
 It reduces the network traffic for various commands and allows using

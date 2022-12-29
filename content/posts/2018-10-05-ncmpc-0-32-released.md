@@ -5,7 +5,7 @@ kind: article
 ---
 
 [ncmpc 0.32](/clients/ncmpc) has been released
-([source tarball](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.32.tar.xz)).
+([source tarball](/download/ncmpc/0/ncmpc-0.32.tar.xz)).
 
 Several crash bugs and one build failure have been fixed.  A good
 amount of code refactoring has eliminated the GLib dependency;

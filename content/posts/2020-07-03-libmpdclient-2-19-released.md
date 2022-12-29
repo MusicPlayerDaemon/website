@@ -5,7 +5,7 @@ kind: article
 ---
 
 libmpdclient
-[2.19](http://www.musicpd.org/download/libmpdclient/2/libmpdclient-2.19.tar.xz)
+[2.19](/download/libmpdclient/2/libmpdclient-2.19.tar.xz)
 has been released.
 
 There are a few bug fixes and support for various new and older

@@ -6,6 +6,6 @@ published: false
 ---
 
 MPD version
-[0.17.4](http://www.musicpd.org/download/mpd/0.17/mpd-0.17.4.tar.xz)
+[0.17.4](/download/mpd/0.17/mpd-0.17.4.tar.xz)
 has been released.  It fixes a few protocol bugs and problems with the
 ffmpeg/libav decoder plugin.

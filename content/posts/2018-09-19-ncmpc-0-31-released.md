@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.31](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.31.tar.xz) has
+[0.31](/download/ncmpc/0/ncmpc-0.31.tar.xz) has
 been released.
 
 This release is a major overhaul of the UI look: colors are enabled by

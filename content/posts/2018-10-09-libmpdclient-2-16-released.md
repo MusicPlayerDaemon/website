@@ -5,7 +5,7 @@ kind: article
 ---
 
 [libmpdclient 2.16](/libs/libmpdclient/) has been released
-([source tarball](http://www.musicpd.org/download/libmpdclient/2/libmpdclient-2.16.tar.xz)).
+([source tarball](/download/libmpdclient/2/libmpdclient-2.16.tar.xz)).
 
 The command `load` can now be used with a range and the `mount`
 commands have been added.

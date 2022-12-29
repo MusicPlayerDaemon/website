@@ -6,6 +6,6 @@ published: false
 ---
 
 MPD version
-[0.17.5](http://www.musicpd.org/download/mpd/0.17/mpd-0.17.5.tar.xz)
+[0.17.5](/download/mpd/0.17/mpd-0.17.5.tar.xz)
 has been released.  It fixes two protocol bugs and a crash in the
 mikmod decoder plugin.

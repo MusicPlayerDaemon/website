@@ -5,7 +5,7 @@ kind: article
 ---
 
 libmpdclient
-[2.15](http://www.musicpd.org/download/libmpdclient/2/libmpdclient-2.15.tar.xz)
+[2.15](/download/libmpdclient/2/libmpdclient-2.15.tar.xz)
 has been released.
 
 There are various new functions to support the MPD 0.21 protocol,

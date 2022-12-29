@@ -5,7 +5,7 @@ kind: article
 ---
 
 libmpdclient
-[2.12](http://www.musicpd.org/download/libmpdclient/2/libmpdclient-2.12.tar.xz)
+[2.12](/download/libmpdclient/2/libmpdclient-2.12.tar.xz)
 has been released.
 
 Various new MPD commands have been made available.

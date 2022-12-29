@@ -6,6 +6,6 @@ published: false
 ---
 
 MPD version
-[0.17.6](http://www.musicpd.org/download/mpd/0.17/mpd-0.17.6.tar.xz)
+[0.17.6](/download/mpd/0.17/mpd-0.17.6.tar.xz)
 has been released.  It fixes an ALSA/USB bug, a modplug build failure
 and two problems with stored playlists.

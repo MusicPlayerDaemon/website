@@ -6,7 +6,7 @@ published: false
 ---
 
 ncmpc
-[0.23](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.23.tar.xz) has
+[0.23](/download/ncmpc/0/ncmpc-0.23.tar.xz) has
 been released.  The tarball contains the PO files that were missing in
 the previous release.
 [Change log](http://git.musicpd.org/cgit/master/ncmpc.git/plain/NEWS?h=v0.23)

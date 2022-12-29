@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.29](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.29.tar.xz) has
+[0.29](/download/ncmpc/0/ncmpc-0.29.tar.xz) has
 been released.
 
 It fixes two crash bugs after connection failure, re-adds the

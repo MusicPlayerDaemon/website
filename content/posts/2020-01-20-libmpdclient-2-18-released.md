@@ -5,7 +5,7 @@ kind: article
 ---
 
 libmpdclient
-[2.18](http://www.musicpd.org/download/libmpdclient/2/libmpdclient-2.18.tar.xz)
+[2.18](/download/libmpdclient/2/libmpdclient-2.18.tar.xz)
 has been released.
 
 This release is mostly about supporting the new partitioning feature

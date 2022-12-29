@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.30](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.30.tar.xz) has
+[0.30](/download/ncmpc/0/ncmpc-0.30.tar.xz) has
 been released.
 
 Two crash bugs (search screen and chat screen) and a tab completion

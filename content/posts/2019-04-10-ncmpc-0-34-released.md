@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.34](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.34.tar.xz) has
+[0.34](/download/ncmpc/0/ncmpc-0.34.tar.xz) has
 been released.
 
 This release fixes various minor bugs and shows the total duration of

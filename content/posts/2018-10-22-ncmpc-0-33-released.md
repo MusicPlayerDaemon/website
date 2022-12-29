@@ -5,7 +5,7 @@ kind: article
 ---
 
 [ncmpc 0.33](/clients/ncmpc) has been released
-([source tarball](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.33.tar.xz)).
+([source tarball](/download/ncmpc/0/ncmpc-0.33.tar.xz)).
 
 Fixes a configuration parser bug and a build failure.  Building now
 requires Meson 0.47 and a few obsolete options have been removed.  The

@@ -19,7 +19,7 @@ the C, C++ & Objective C languages.
 
 ## Documentation
 
-[Online API documentation](http://www.musicpd.org/doc/libmpdclient/)
+[Online API documentation](/doc/libmpdclient/)
 
 ## Support
 

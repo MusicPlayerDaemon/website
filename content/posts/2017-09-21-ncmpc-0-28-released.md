@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.28](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.28.tar.xz) has
+[0.28](/download/ncmpc/0/ncmpc-0.28.tar.xz) has
 been released.
 
 It fixes two crash bugs, repairs password transmission and hides the

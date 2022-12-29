@@ -5,7 +5,7 @@ kind: article
 ---
 
 libmpdclient
-[2.13](http://www.musicpd.org/download/libmpdclient/2/libmpdclient-2.13.tar.xz)
+[2.13](/download/libmpdclient/2/libmpdclient-2.13.tar.xz)
 has been released.
 
 It fixes the "Operation now in progress" bug, and fixes a problem with

@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.27](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.27.tar.xz) has
+[0.27](/download/ncmpc/0/ncmpc-0.27.tar.xz) has
 been released.
 
 It fixes connecting to MPD if `/var/run/mpd/socket` does not exist.

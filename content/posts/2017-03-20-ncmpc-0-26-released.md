@@ -4,7 +4,7 @@ created_at: 2017-03-20 13:33:14 +0100
 kind: article
 ---
 
-ncmpc [0.26](http://www.musicpd.org/download/ncmpc/ncmpc-0.26.tar.xz)
+ncmpc [0.26](/download/ncmpc/ncmpc-0.26.tar.xz)
 has been released.
 
 This release fixes GCC 7 warnings, eliminates flickering, adds

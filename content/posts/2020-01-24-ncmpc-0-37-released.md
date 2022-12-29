@@ -5,7 +5,7 @@ kind: article
 ---
 
 ncmpc
-[0.37](http://www.musicpd.org/download/ncmpc/0/ncmpc-0.37.tar.xz) has
+[0.37](/download/ncmpc/0/ncmpc-0.37.tar.xz) has
 been released.
 
 This version fixes a bug which broke compatibility with MPD versions
