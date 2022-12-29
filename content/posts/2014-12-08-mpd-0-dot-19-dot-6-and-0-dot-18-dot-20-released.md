@@ -8,9 +8,9 @@ published: false
 **Music Player Daemon** [0.19.6](/download/mpd/0.19/mpd-0.19.6.tar.xz)
 has been released.
 
-It fixes a build failure with [`musl`](http://www.musl-libc.org/) and
+It fixes a build failure with [`musl`](https://www.musl-libc.org/) and
 the `ffmpeg` decoder plugin is now compatible with the new
-[FFmpeg](http://www.ffmpeg.org/) version 2.5.
+[FFmpeg](https://www.ffmpeg.org/) version 2.5.
 
 [Change log](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/v0.19.6/NEWS)
 

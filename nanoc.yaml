@@ -1,5 +1,5 @@
 title: 'Music Player Daemon'
-base_url: 'http://www.musicpd.org'
+base_url: 'https://www.musicpd.org'
 
 # A list of file extensions that nanoc will consider to be textual rather than
 # binary. If an item with an extension not in this list is found,  the file

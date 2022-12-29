@@ -1,7 +1,7 @@
 # Music Player Daemon website
 
 This is the repository that is used to manage the
-[MPD website](http://www.musicpd.org/).  [nanoc](http://nanoc.ws/) is
+[MPD website](https://www.musicpd.org/).  [nanoc](https://nanoc.ws/) is
 used to generate HTML from Markdown.
 
 To get started, a few Ruby gems need to be installed:
