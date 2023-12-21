@@ -1,6 +1,6 @@
 ---
 title: mpc
-version: "0.34"
+version: "0.35"
 ---
 
 A minimalist command line interface to MPD.
