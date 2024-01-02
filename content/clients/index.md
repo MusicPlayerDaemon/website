@@ -71,6 +71,8 @@ written in Go with vi-like interface.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
+[MMC4W](https://github.com/drgerg/mmc4w) - A tiny Windows client built with Tkinter. Minimal yet capable. Supports embedded art.
+
 [MPDCtrl](https://github.com/torum/MPDCtrl) - A client app for Windows desktop.
 
 [mpdevil](https://github.com/SoongNoonien/mpdevil) - A small GTK+ MPD client written in python
