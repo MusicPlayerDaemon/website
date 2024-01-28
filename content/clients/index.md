@@ -67,6 +67,8 @@ written in Go with vi-like interface.
 
 [Sola MPD](https://github.com/prokosna/sola_mpd) - A web based client focused on usability with flexible browsing and advanced search.
 
+[Retrotube](https://gitlab.com/eric.yape/retrotube) - A web based application with a user interface purposely designed to highlight albums covers.
+
 ## Graphical Clients
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
