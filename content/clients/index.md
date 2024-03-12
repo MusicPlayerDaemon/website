@@ -77,9 +77,9 @@ written in Go with vi-like interface.
 
 [MPDCtrl](https://github.com/torum/MPDCtrl) - A client app for Windows desktop.
 
-[mpdevil](https://github.com/SoongNoonien/mpdevil) - A small GTK+ MPD client written in python
-
 [Persephone](https://persephone.fm) - A modern, native client for macOS
+
+[Plattenalbum](https://github.com/SoongNoonien/plattenalbum) - A small GTK4/libadwaita MPD client written in python
 
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
 
