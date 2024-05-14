@@ -75,6 +75,8 @@ written in Go with vi-like interface.
 
 [MMC4W](https://github.com/drgerg/mmc4w) - A tiny Windows client built with Tkinter. Minimal yet capable. Supports embedded art.
 
+[MPC Bar](https://github.com/spnw/mpc-bar) - A simple client for the macOS menu bar
+
 [MPDCtrl](https://github.com/torum/MPDCtrl) - A client app for Windows desktop.
 
 [Persephone](https://persephone.fm) - A modern, native client for macOS
