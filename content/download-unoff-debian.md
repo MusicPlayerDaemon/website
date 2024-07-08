@@ -22,7 +22,7 @@ Then, identify the release your running by its codename running:
 
 Assuming your release is *bookworm* from now on, add the sources:
 
-for **Debian** (`amd64` only):
+for **Debian** (`amd64/arm64` only):
 
     # Add this line in /etc/apt/sources.list.d/deb.kaliko.me.list
     deb [signed-by=/usr/share/keyrings/deb.kaliko.me.gpg] https://deb.kaliko.me/debian-backports/ bookworm-backports main
