@@ -35,6 +35,8 @@ written in Go with vi-like interface.
 
 [mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
 
+[inori](https://github.com/eshrh/inori) - Client with a folding library view, queue interface, and effective fuzzy searching
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
