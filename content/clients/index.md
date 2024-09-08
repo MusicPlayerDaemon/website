@@ -37,6 +37,8 @@ written in Go with vi-like interface.
 
 [inori](https://github.com/eshrh/inori) - Client with a folding library view, queue interface, and effective fuzzy searching
 
+[MAENMPC](https://masysma.net/32/maenmpc.xhtml) - Experimental MPD client with stars-based ratings, play counts and radio-inspired playlist generation
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
