@@ -121,6 +121,8 @@ written in Go with vi-like interface.
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A modern, native client for iOS/iPadOS; Also available on Windows!
 
+[yaMPC](https://www.openaudiolab.com/yampc/) - A MPD client for iOS
+
 ## Non-interactive Clients
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
