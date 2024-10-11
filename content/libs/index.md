@@ -15,4 +15,4 @@ implement clients.
 - [libmpd-haskell](https://hackage.haskell.org/package/libmpd) - Native Haskell library for MPD.
 
 There are many more client libraries.  Please help and
-[add them to this list](https://github.com/MusicPlayerDaemon/website).
+[add them to this list](https://github.com/MusicPlayerDaemon/website/blob/master/content/libs/index.md).
