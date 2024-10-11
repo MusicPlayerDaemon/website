@@ -14,6 +14,7 @@ implement clients.
 - [MphpD](https://github.com/FloFaber/MphpD) - A fully-featured, dependency-free PHP library for MPD.
 - [libmpd-haskell](https://hackage.haskell.org/package/libmpd) - Native Haskell library for MPD.
 - [erlmpd](https://masysma.net/32/erlmpd.xhtml) - Pure Erlang client library for the MPD protocol.
+- [mpc.js](https://github.com/hbenl/mpc-js-core) - A Comprehensive Promise-based JavaScript client library.
 
 There are many more client libraries.  Please help and
 [add them to this list](https://github.com/MusicPlayerDaemon/website).
