@@ -47,6 +47,8 @@ written in Go with vi-like interface.
 
 [bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
 
+[mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS 2 support, for media keys, notifications, and other system music player integrations.
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
