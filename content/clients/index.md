@@ -75,6 +75,8 @@ written in Go with vi-like interface.
 
 [Retrotube](https://gitlab.com/eric.yape/retrotube) - A web based application with a user interface purposely designed to highlight albums covers.
 
+[phpMp2](https://github.com/whitelynx/phpMp2) - A rather old web-based client for MPD, written in PHP as a replacement for phpMp.
+
 ## Graphical Clients
 
 [Cantata](https://github.com/nullobsi/cantata) - A Qt client.
