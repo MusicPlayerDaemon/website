@@ -49,6 +49,8 @@ written in Go with vi-like interface.
 
 [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS 2 support, for media keys, notifications, and other system music player integrations.
 
+[BGM-MPD](https://git.sr.ht/~nytpu/bgm-mpd) - Play music with gaps between tracks, in the style of ambient video game background music
+
 ## Web Clients
 
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
