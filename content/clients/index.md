@@ -105,7 +105,7 @@ written in Go with vi-like interface.
 
 [Ymuse](https://github.com/yktoo/ymuse) - Easy, functional, and snappy GTK client for Music Player Daemon (MPD) written in Go.
 
-[mmpsp](https://github.com/CamilleScholtz/mmpsp) - A client for the macOS menubar, focused on beauty and simplicity, written in SwiftUI.
+[swmpc](https://github.com/CamilleScholtz/swmpc) - A native client for macOS, focused on beauty and simplicity, written in SwiftUI.
 
 ## Android
 
