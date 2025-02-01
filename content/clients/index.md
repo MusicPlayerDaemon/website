@@ -127,6 +127,9 @@ written in Go with vi-like interface.
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A modern, native client for iOS/iPadOS; Also available on Windows!
 
+## Raspberry Pi OS
+[piradio](https://bobrathbone.com/raspberrypi/pi_internet_radio.html) - A comprehensive Internet Radio using Raspberry Pi hardware and software  
+
 ## Non-interactive Clients
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
