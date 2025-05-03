@@ -15,6 +15,8 @@ This is an (incomplete) list of free and open source MPD clients.
 [mpc](mpc/) - a solid, lightweight, simple mpd client,
 written in C.
 
+[ps-mpd](https://github.com/insomnimus/ps-mpd) an MPD client as a Powershell (v7+) module, allowing programmatic, structured access to songs, albums and artists as well as playback controls.
+
 ## Console Clients
 
 [ncmpc](ncmpc/) - A curses client written in C++.
