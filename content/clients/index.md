@@ -103,6 +103,8 @@ written in Go with vi-like interface.
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows and Xbox; Also available on iOS!
 
+[unison](https://github.com/ZetaKebab/unison) - daemon client for Windows, focused on shortcuts, with a Snapcast implementation
+
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
