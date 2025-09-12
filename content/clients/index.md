@@ -117,8 +117,6 @@ written in Go with vi-like interface.
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
 
-[MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
-
 ## Wear OS
 
 [MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
@@ -150,6 +148,8 @@ featured client.
 
 [Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
 At the writing time - more recent, compared to some other gtk clients.
+
+[MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android, no longer runs on new versions of Android
 
 ## More
 
