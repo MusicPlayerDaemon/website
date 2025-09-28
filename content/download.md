@@ -28,4 +28,5 @@ Release tarballs and git tags are signed with
 
 ## Other
 
+- [MPD for Android APK](https://f-droid.org/en/packages/org.musicpd/) can be installed from [F-Droid](https://f-droid.org/)
 - [All downloads](/download/)

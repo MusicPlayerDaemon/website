@@ -15,6 +15,8 @@ This is an (incomplete) list of free and open source MPD clients.
 [mpc](mpc/) - a solid, lightweight, simple mpd client,
 written in C.
 
+[ps-mpd](https://github.com/insomnimus/ps-mpd) an MPD client as a Powershell (v7+) module, allowing programmatic, structured access to songs, albums and artists as well as playback controls.
+
 ## Console Clients
 
 [ncmpc](ncmpc/) - A curses client written in C++.
@@ -35,6 +37,10 @@ written in Go with vi-like interface.
 
 [mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
 
+[inori](https://github.com/eshrh/inori) - Client with a folding library view, queue interface, and effective fuzzy searching
+
+[MAENMPC](https://masysma.net/32/maenmpc.xhtml) - Experimental MPD client with stars-based ratings, play counts and radio-inspired playlist generation
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
@@ -42,6 +48,10 @@ written in Go with vi-like interface.
 [mpd-ynca](https://github.com/chewi/mpd-ynca) - A non-interactive client to control Yamaha AV receivers with YNCA (network control) support.
 
 [bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
+
+[mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS 2 support, for media keys, notifications, and other system music player integrations.
+
+[BGM-MPD](https://git.sr.ht/~nytpu/bgm-mpd) - Play music with gaps between tracks, in the style of ambient video game background music
 
 ## Web Clients
 
@@ -69,11 +79,17 @@ written in Go with vi-like interface.
 
 [Retrotube](https://gitlab.com/eric.yape/retrotube) - A web based application with a user interface purposely designed to highlight albums covers.
 
+[phpMp2](https://github.com/whitelynx/phpMp2) - A rather old web-based client for MPD, written in PHP as a replacement for phpMp.
+
 ## Graphical Clients
+
+[Cantata](https://github.com/nullobsi/cantata) - A Qt client.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
 [MMC4W](https://github.com/drgerg/mmc4w) - A tiny Windows client built with Tkinter. Minimal yet capable. Supports embedded art.
+
+[MPC Bar](https://github.com/spnw/mpc-bar) - A simple client for the macOS menu bar
 
 [MPDCtrl](https://github.com/torum/MPDCtrl) - A client app for Windows desktop.
 
@@ -87,11 +103,15 @@ written in Go with vi-like interface.
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows and Xbox; Also available on iOS!
 
+[unison](https://github.com/ZetaKebab/unison) - daemon client for Windows, focused on shortcuts, with a Snapcast implementation
+
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
 
 [Ymuse](https://github.com/yktoo/ymuse) - Easy, functional, and snappy GTK client for Music Player Daemon (MPD) written in Go.
+
+[swmpc](https://github.com/CamilleScholtz/swmpc) - A native client for macOS, focused on beauty and simplicity, written in SwiftUI.
 
 ## Android
 
@@ -123,12 +143,10 @@ written in Go with vi-like interface.
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
 
-[Cantata](https://github.com/cdrummond/cantata) - A Qt client.
-
 [gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
 featured client.
 
-[QMPDClient](http://bitcheese.net/QMPDClient/) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
+[QMPDClient](https://gitlab.com/Voker57/qmpdclient) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
 
 [Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
 At the writing time - more recent, compared to some other gtk clients.
