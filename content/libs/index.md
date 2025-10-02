@@ -18,4 +18,4 @@ implement clients.
 - [mpc-js](https://github.com/hbenl/mpc-js) - A Comprehensive Promise-based JavaScript client library.
 
 There are many more client libraries.  Please help and
-[add them to this list](https://github.com/bedro0/MPDWebsite/blob/master/content/libs/index.md).
+[add them to this list](https://github.com/MusicPlayerDaemon/website/blob/master/content/libs/index.md).
