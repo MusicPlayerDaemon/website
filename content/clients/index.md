@@ -37,6 +37,8 @@ written in Go with vi-like interface.
 
 [mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
 
+[rmpc](https://mierak.github.io/rmpc/) - A configurable and feature rich terminal client with album art and visualizer display.
+
 [inori](https://github.com/eshrh/inori) - Client with a folding library view, queue interface, and effective fuzzy searching
 
 [MAENMPC](https://masysma.net/32/maenmpc.xhtml) - Experimental MPD client with stars-based ratings, play counts and radio-inspired playlist generation
