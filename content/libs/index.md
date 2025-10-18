@@ -16,6 +16,7 @@ implement clients.
 - [erlmpd](https://masysma.net/32/erlmpd.xhtml) - Pure Erlang client library for the MPD protocol.
 - [Simple.MPD](https://github.com/RafaelEstevamReis/SimpleMPD) - a small, dependency-free C# library for MPD.
 - [mpc-js](https://github.com/hbenl/mpc-js) - A Comprehensive Promise-based JavaScript client library.
+- [zmpd](https://github.com/bandithedoge/zmpd) - Pure Zig client library
 
 There are many more client libraries.  Please help and
 [add them to this list](https://github.com/MusicPlayerDaemon/website/blob/master/content/libs/index.md).
