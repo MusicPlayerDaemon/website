@@ -6,6 +6,11 @@
 body {
   background: white;
   font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(15em, 100%), max-content));
+  min-height: 100vh;
+  align-items: start;
+  justify-content: start;
 }
 
 a:hover {
@@ -13,12 +18,9 @@ a:hover {
 }
 
 #main {
-  position: absolute;
-
-  top: 40px;
-  left: 280px;
-
-  width: 500px;
+  padding: 2.5em 1.25em 0 1.25em;
+  max-width: 31.25em;
+  justify-self: start;
 }
 
 #main h1 {
@@ -53,17 +55,31 @@ a:hover {
 }
 
 #sidebar {
-  position: absolute;
-
-  top: 40px;
-  left: 20px;
-  width: 200px;
-
-  padding: 20px 20px 0 0;
-
-  border-right: 1px solid #ccc;
-
+  order: -1;
+  padding: 2.5em 1.25em 0 1.25em;
   text-align: right;
+  max-width: 15em;
+  border-right: 1px solid #ccc;
+}
+
+@media (max-width: 31.25em) {
+  #sidebar {
+    text-align: left;
+    border-right: none;
+    border-bottom: 1px solid #ccc;
+    max-width: none;
+  }
+
+  #sidebar ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 10px 0;
+  }
+
+  #sidebar li {
+    margin: 0;
+  }
 }
 
 #sidebar h2 {
@@ -129,3 +145,4 @@ a:hover {
 #main .post > article > p {
   margin: 2pt 0 4pt 0;
 }
+
