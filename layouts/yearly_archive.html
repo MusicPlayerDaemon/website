@@ -1,0 +1,14 @@
+<nav>
+  <p>
+    <% available_years.each do |year| %>
+      <% if year == @item[:year] %>
+        <strong><%= year %></strong>
+      <% else %>
+        <a href="/news/<%= year %>/"><%=year %></a>
+      <% end %>
+      <%= " | " unless year == available_years.last %>
+    <% end %>
+  </p>
+</nav>
+
+<%= yield %>

@@ -12,7 +12,7 @@ protocol.
 
 ## News
 
-<% sorted_articles.each do |post| %>
+<% recent_posts.each do |post| %>
 <div class='post'>
 <h3><%= link_to post[:title], post.path %></h3>
 <aside>Posted at: <%= get_pretty_date(post) %></aside>
@@ -20,4 +20,8 @@ protocol.
     <%= get_post_start(post) %>
 </article>
 </div>
+<% end %>
+
+<% if next_archive_year %>
+<p><a href="/news/<%= next_archive_year %>/">More news from <%= next_archive_year %></a></p>
 <% end %>

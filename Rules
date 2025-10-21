@@ -1,6 +1,11 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
+# Preprocessing: Generate yearly archives dynamically
+preprocess do
+  create_yearly_archives
+end
+
 # A few helpful tips about the Rules file:
 #
 # * The string given to #compile and #route are matching patterns for
@@ -28,6 +33,13 @@ end
 compile '/robots/' do
 end
 
+compile '/news/*' do
+  filter :erb
+  filter :kramdown
+  layout 'yearly_archive'
+  layout 'default'
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -52,6 +64,10 @@ end
 
 route '/commercial/' do
   '/commercial.html'
+end
+
+route '/news/*' do
+  item.identifier.to_s + '/index.html'
 end
 
 route '/posts/*' do
