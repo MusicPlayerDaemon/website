@@ -153,6 +153,8 @@ featured client.
 [Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
 At the writing time - more recent, compared to some other gtk clients.
 
+[Radiod](https://www.bobrathbone.com/raspberrypi/pi_internet_radio.html) Feature rich radio software project using the Raspberry Pi and supporting hardware such as LCDs, TFTs, Rotary encoders and a variety of different sound cards.  
+
 ## More
 
 There are many more clients.  Please help and
