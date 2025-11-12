@@ -117,6 +117,10 @@ written in Go with vi-like interface.
 
 [swmpc](https://github.com/CamilleScholtz/swmpc) - A native client for macOS, focused on beauty and simplicity, written in SwiftUI.
 
+## Hardware Clients
+
+[MPD Pauser](https://drivers2000.com/mpdpauser) - A physical button to pause (and play) your Music Player Daemon (MPD).
+
 ## Android
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
