@@ -6,7 +6,7 @@ used to generate HTML from Markdown.
 
 To get started, a few Ruby gems need to be installed:
 
-    gem install nanoc kramdown adsf
+    gem install nanoc kramdown adsf builder puma
 
 To generate the HTML files, type:
 
