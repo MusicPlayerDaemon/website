@@ -69,6 +69,8 @@ written in Go with vi-like interface.
 
 [ympd](https://ympd.org/) - a web GUI written in C, using websockets and bootstrap.js
 
+[hympd](https://github.com/cortsf/hympd) - Simple, hackable, mobile and vim-like browser friendly web client.
+
 [myMPD](https://jcorporation.github.io/myMPD/) - An evolution of ympd, with minimal resource usage and dynamic playlist integration
 
 [ampd](https://github.com/rain0r/ampd) - A modern and mobile-friendly web UI using Spring Boot, Angular and websockets.
@@ -119,8 +121,6 @@ written in Go with vi-like interface.
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
 
-[MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android
-
 ## Wear OS
 
 [MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
@@ -154,6 +154,7 @@ featured client.
 At the writing time - more recent, compared to some other gtk clients.
 
 [Radiod](https://www.bobrathbone.com/raspberrypi/pi_internet_radio.html) Feature rich radio software project using the Raspberry Pi and supporting hardware such as LCDs, TFTs, Rotary encoders and a variety of different sound cards.  
+[MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android, no longer runs on new versions of Android
 
 ## More
 
