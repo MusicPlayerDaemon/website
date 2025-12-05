@@ -91,6 +91,8 @@ written in Go with vi-like interface.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
 
+[Euphonica](https://github.com/htkhiem/euphonica) - A modern GTK4+ native GNOME client for the Music Player Daemon (MPD)
+
 [MMC4W](https://github.com/drgerg/mmc4w) - A tiny Windows client built with Tkinter. Minimal yet capable. Supports embedded art.
 
 [MPC Bar](https://github.com/spnw/mpc-bar) - A simple client for the macOS menu bar
