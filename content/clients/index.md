@@ -119,6 +119,8 @@ written in Go with vi-like interface.
 
 [swmpc](https://github.com/CamilleScholtz/swmpc) - A native client for macOS, focused on beauty and simplicity, written in SwiftUI.
 
+[mpz](https://github.com/olegantonyan/mpz) - A Qt player with MPD support, focused on library and playlists management.
+
 ## Android
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
