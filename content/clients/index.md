@@ -57,6 +57,8 @@ written in Go with vi-like interface.
 
 ## Web Clients
 
+[Maestro-MPD-Control-Server](https://coacharnold1.github.io/Maestro-Server) - A Music Server with a web interface and integrated CD ripper with Last FM Integration.
+
 [netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
 
 [MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
