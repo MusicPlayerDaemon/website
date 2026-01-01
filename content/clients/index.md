@@ -143,6 +143,8 @@ written in Go with vi-like interface.
 
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
 
+[scrob](https://codeberg.org/bandithedoge/scrob) - Lightweight, standalone scrobbling daemon for MPD
+
 ## Voice Clients
 
 [alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
