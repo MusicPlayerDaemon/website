@@ -43,6 +43,8 @@ written in Go with vi-like interface.
 
 [MAENMPC](https://masysma.net/32/maenmpc.xhtml) - Experimental MPD client with stars-based ratings, play counts and radio-inspired playlist generation
 
+[muzi](https://github.com/tristanjet/muzi) - TUI client with vim-like keybinds + queue manipulation + fuzzy finding with an emphasis on snappiness.
+
 ## Utility clients
 
 [MPD_sima](https://kaliko.me/mpd-sima/) - A non-interactive autoqueue client. It will queue new tracks following last.fm similar artists suggestions.
