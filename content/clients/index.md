@@ -91,11 +91,11 @@ written in Go with vi-like interface.
 
 ## Graphical Clients
 
-[Aria](https://github.com/mirthestam/aria) - A GTK4+ MPD client with support for Classical Music.
-
 [Cantata](https://github.com/nullobsi/cantata) - A Qt client.
 
 [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - A client for the Music Player Daemon (MPD), focusing on albums instead of single tracks
+
+[Ebony](https://codeberg.org/Mirthe/Ebony) - A GTK4+ MPD client with support for Classical Music.
 
 [Euphonica](https://github.com/htkhiem/euphonica) - A modern GTK4+ native GNOME client for the Music Player Daemon (MPD)
 
