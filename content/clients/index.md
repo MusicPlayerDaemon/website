@@ -83,7 +83,7 @@ written in Go with vi-like interface.
 
 [cryMPD](https://github.com/mamantoha/cryMPD) -  Completed MPD Web client based on Crystal.
 
-[Sola MPD](https://github.com/prokosna/sola_mpd) - A web based client focused on usability with flexible browsing and advanced search.
+[Sola MPD](https://prokosna.github.io/sola_mpd/) - A web client focused on usability with flexible browsing and advanced search.
 
 [Retrotube](https://gitlab.com/eric.yape/retrotube) - A web based application with a user interface purposely designed to highlight albums covers.
 
@@ -126,6 +126,8 @@ written in Go with vi-like interface.
 [swmpc](https://github.com/CamilleScholtz/swmpc) - A native client for macOS, focused on beauty and simplicity, written in SwiftUI.
 
 [mpz](https://github.com/olegantonyan/mpz) - A Qt player with MPD support, focused on library and playlists management.
+
+[Sola MPD](https://prokosna.github.io/sola_mpd/) - A desktop client for Linux, Windows and macOS, focused on usability with flexible browsing and advanced search.
 
 ## Android
 
