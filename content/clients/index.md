@@ -87,7 +87,7 @@ written in Go with vi-like interface.
 
 [cryMPD](https://github.com/mamantoha/cryMPD) -  Completed MPD Web client based on Crystal.
 
-[Sola MPD](https://prokosna.github.io/sola_mpd/) - A web client focused on usability with flexible browsing and advanced search.
+[Sola MPD](https://prokosna.github.io/sola_mpd/) - A web client focused on usability with flexible browsing and advanced search. Also provides an MCP server for flexible library analysis and control with AI.
 
 [Retrotube](https://gitlab.com/eric.yape/retrotube) - A web based application with a user interface purposely designed to highlight albums covers.
 
