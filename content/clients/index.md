@@ -53,7 +53,11 @@ written in Go with vi-like interface.
 
 [bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
 
+[mpd-discplayer](https://github.com/b0bbywan/go-mpd-discplayer) - A Go client that automates audio CD and removable USB media playback on MPD, generating CUE files and cover art for discs.
+
 [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS 2 support, for media keys, notifications, and other system music player integrations.
+
+[mpDris2 (asyncio fork)](https://github.com/b0bbywan/mpDris2) - An asyncio-based fork of mpDris2 with cover art support through the MPD `readpicture` and `albumart` commands.
 
 [BGM-MPD](https://git.sr.ht/~nytpu/bgm-mpd) - Play music with gaps between tracks, in the style of ambient video game background music
 
