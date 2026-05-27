@@ -31,7 +31,7 @@ written in Go with vi-like interface.
 
 [pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
 
-[nncmpp](https://git.janouch.name/p/nncmpp) - A hybrid curses/X11 client inspired by Sonata.
+[nncmpp](https://git.janouch.name/p/nncmpp) - A hybrid curses/X11/AppKit client inspired by Sonata.
 
 [mmtc](https://github.com/figsoda/mmtc) - A minimal mpd terminal client
 
