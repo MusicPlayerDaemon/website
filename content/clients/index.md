@@ -57,7 +57,7 @@ written in Go with vi-like interface.
 
 [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS 2 support, for media keys, notifications, and other system music player integrations.
 
-[mpDris2 (asyncio fork)](https://github.com/b0bbywan/mpDris2) - An asyncio-based fork of mpDris2 with cover art support through the MPD `readpicture` and `albumart` commands.
+[mpDris2 (asyncio fork)](https://github.com/b0bbywan/mpDris2) - An asyncio-based fork of mpDris2 with enhanced cover art support, from the MPD `readpicture`/`albumart` commands to remote sources for tagged albums and web radios.
 
 [BGM-MPD](https://git.sr.ht/~nytpu/bgm-mpd) - Play music with gaps between tracks, in the style of ambient video game background music
 
