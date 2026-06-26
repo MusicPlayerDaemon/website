@@ -1,6 +1,6 @@
 ---
 title: mpdscribble
-version: "0.25"
+version: "0.26"
 ---
 
 mpdscribble is a MPD client which submits information about tracks
