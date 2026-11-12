@@ -4,7 +4,6 @@
 }
 
 body {
-  background: white;
   font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(15em, 100%), max-content));
