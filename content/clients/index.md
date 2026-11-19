@@ -17,6 +17,9 @@ written in C.
 
 [ps-mpd](https://github.com/insomnimus/ps-mpd) an MPD client as a Powershell (v7+) module, allowing programmatic, structured access to songs, albums and artists as well as playback controls.
 
+[MPD Bare Control (PS)](https://github.com/kk-sw/MPD-Bare-Control) MPD Bare Control (PS) is a minimal Music Player Daemon (MPD) controller written in PowerShell (Windows).
+
+
 ## Console Clients
 
 [ncmpc](ncmpc/) - A curses client written in C++.
