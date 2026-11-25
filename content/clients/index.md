@@ -12,8 +12,7 @@ This is an (incomplete) list of free and open source MPD clients.
 
 ## Command-line Clients
 
-[mpc](mpc/) - a solid, lightweight, simple MPD client,
-written in C.
+[mpc](mpc/) - A minimalist command line interface to MPD (written in C).
 
 ## Console Clients
 
