@@ -12,7 +12,7 @@ This is an (incomplete) list of free and open source MPD clients.
 
 ## Command-line Clients
 
-[mpc](mpc/) - a solid, lightweight, simple mpd client,
+[mpc](mpc/) - a solid, lightweight, simple MPD client,
 written in C.
 
 ## Console Clients
@@ -110,7 +110,7 @@ written in C++ tailored after ncmpc.
 
 ## Android
 
-[M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
+[M.A.L.P.](https://gitlab.com/gateship-one/malp) - A MPD client for Android
 
 ## iOS
 
@@ -126,7 +126,7 @@ written in C++ tailored after ncmpc.
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
 
-[QMPDClient](https://gitlab.com/Voker57/qmpdclient) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
+[QMPDClient](https://gitlab.com/Voker57/qmpdclient) - Qt4 based MPD client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
 
 [Sonata](https://github.com/multani/sonata) - Client, now ported to Gtk3.
 At the writing time - more recent, compared to some other gtk clients.
@@ -139,7 +139,7 @@ At the writing time - more recent, compared to some other gtk clients.
 
 [pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
 
-[mmtc](https://github.com/figsoda/mmtc) - A minimal mpd terminal client
+[mmtc](https://github.com/figsoda/mmtc) - A minimal MPD terminal client
 
 [mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
 
