@@ -65,7 +65,7 @@ written in Go with vi-like interface.
 
 [Maestro-MPD-Control-Server](https://coacharnold1.github.io/Maestro-Server) - A Music Server with a web interface and integrated CD ripper with Last FM Integration.
 
-[netjukebox](http://www.netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
+[netjukebox](https://netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
 
 [MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
 
@@ -162,9 +162,6 @@ written in Go with vi-like interface.
 ## Unmaintained Clients
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
-
-[gmpc](http://gmpclient.org/)(Gnome Music Player Client) - A fully
-featured client.
 
 [QMPDClient](https://gitlab.com/Voker57/qmpdclient) - Qt4 based mpd client, originally developed by Håvard Tautra Knutsen. Set of patches developed by community was then called "QMPDClient-ne". Now it became mainline
 
