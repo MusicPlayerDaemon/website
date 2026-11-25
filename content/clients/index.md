@@ -16,7 +16,8 @@ This is an (incomplete) list of free and open source MPD clients.
 
 ## Console Clients
 
-[ncmpc](ncmpc/) - A curses client written in C++.
+[ncmpc](ncmpc/) - A fully-featured MPD client which runs in a terminal
+(using ncurses, written in C++).
 
 [ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
 written in C++ tailored after ncmpc.

@@ -3,7 +3,7 @@ title: ncmpc
 version: "0.55"
 ---
 
-ncmpc is a fully featured MPD client, which runs in a terminal (using
+ncmpc is a fully-featured MPD client which runs in a terminal (using
 ncurses). Its goal is to provide a keyboard oriented and consistent
 interface to MPD, without wasting resources.
 
