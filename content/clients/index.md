@@ -15,8 +15,6 @@ This is an (incomplete) list of free and open source MPD clients.
 [mpc](mpc/) - a solid, lightweight, simple mpd client,
 written in C.
 
-[ps-mpd](https://github.com/insomnimus/ps-mpd) an MPD client as a Powershell (v7+) module, allowing programmatic, structured access to songs, albums and artists as well as playback controls.
-
 ## Console Clients
 
 [ncmpc](ncmpc/) - A curses client written in C++.
@@ -24,18 +22,7 @@ written in C.
 [ncmpcpp](http://rybczak.net/ncmpcpp/) - A curses client
 written in C++ tailored after ncmpc.
 
-[pms](https://github.com/ambientsound/pms) - A console client
-written in Go with vi-like interface.
-
-[vimpc](https://github.com/boysetsfrog/vimpc) - A curses client with vi-like key bindings.
-
-[pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
-
 [nncmpp](https://git.janouch.name/p/nncmpp) - A hybrid curses/X11/AppKit client inspired by Sonata.
-
-[mmtc](https://github.com/figsoda/mmtc) - A minimal mpd terminal client
-
-[mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
 
 [rmpc](https://mierak.github.io/rmpc/) - A configurable and feature rich terminal client with album art and visualizer display.
 
@@ -51,8 +38,6 @@ written in Go with vi-like interface.
 
 [mpd-ynca](https://github.com/chewi/mpd-ynca) - A non-interactive client to control Yamaha AV receivers with YNCA (network control) support.
 
-[bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
-
 [mpd-discplayer](https://github.com/b0bbywan/go-mpd-discplayer) - A Go client that automates audio CD and removable USB media playback on MPD, generating CUE files and cover art for discs.
 
 [mpd2mpris](https://github.com/b0bbywan/mpd2mpris) - An asyncio MPRIS 2 bridge for MPD with enhanced cover art support, from the MPD `readpicture`/`albumart` commands to remote sources for tagged albums and web radios.
@@ -67,15 +52,9 @@ written in Go with vi-like interface.
 
 [netjukebox](https://netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
 
-[MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
-
-[PiFi Radio](https://rafaelc.org/pifi) - A minimalist web client to listen to radio (archived).
-
 [RompЯ](https://fatg3erman.github.io/RompR/) - A mobile-ready and desktop web client
 
 [cyp](https://github.com/ondras/cyp) - A responsive web client based on [ws2mpd](https://github.com/ondras/ws2mpd/) with Youtube-dl integration
-
-[ympd](https://ympd.org/) - a web GUI written in C, using websockets and bootstrap.js
 
 [hympd](https://github.com/cortsf/hympd) - Simple, hackable, mobile and vim-like browser friendly web client.
 
@@ -90,8 +69,6 @@ written in Go with vi-like interface.
 [Sola MPD](https://prokosna.github.io/sola_mpd/) - A web client focused on usability with flexible browsing and advanced search. Also provides an MCP server for flexible library analysis and control with AI.
 
 [Retrotube](https://gitlab.com/eric.yape/retrotube) - A web based application with a user interface purposely designed to highlight albums covers.
-
-[phpMp2](https://github.com/whitelynx/phpMp2) - A rather old web-based client for MPD, written in PHP as a replacement for phpMp.
 
 ## Graphical Clients
 
@@ -119,8 +96,6 @@ written in Go with vi-like interface.
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A native client for Windows and Xbox; Also available on iOS!
 
-[unison](https://github.com/ZetaKebab/unison) - daemon client for Windows, focused on shortcuts, with a Snapcast implementation
-
 [Xfce4-mpc-plugin](https://goodies.xfce.org/projects/panel-plugins/xfce4-mpc-plugin) - Plugin for Xfce4 Panel
 
 [Xfmpc](https://goodies.xfce.org/projects/applications/xfmpc) - A graphical GTK+ MPD client focusing on low footprint
@@ -137,15 +112,7 @@ written in Go with vi-like interface.
 
 [M.A.L.P.](https://gitlab.com/gateship-one/malp) - A mpd client for Android
 
-## Wear OS
-
-[MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
-
 ## iOS
-
-[MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
-
-[Shinobu](https://github.com/Nyx0uf/Shinobu) - Modern and native client for iOS (iPhone / iPad)
 
 [Stylophone](https://github.com/Difegue/Stylophone) - A modern, native client for iOS/iPadOS; Also available on Windows!
 
@@ -154,10 +121,6 @@ written in Go with vi-like interface.
 [mpdscribble](mpdscribble/) - Last.fm scrobbler
 
 [scrob](https://codeberg.org/bandithedoge/scrob) - Lightweight, standalone scrobbling daemon for MPD
-
-## Voice Clients
-
-[alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
 
 ## Unmaintained Clients
 
@@ -169,6 +132,39 @@ written in Go with vi-like interface.
 At the writing time - more recent, compared to some other gtk clients.
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android, no longer runs on new versions of Android
+
+[ps-mpd](https://github.com/insomnimus/ps-mpd) an MPD client as a Powershell (v7+) module, allowing programmatic, structured access to songs, albums and artists as well as playback controls.
+
+[vimpc](https://github.com/boysetsfrog/vimpc) - A curses client with vi-like key bindings.
+
+[pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
+
+[mmtc](https://github.com/figsoda/mmtc) - A minimal mpd terminal client
+
+[mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
+
+[pms](https://github.com/ambientsound/pms) - A console client
+written in Go with vi-like interface.
+
+[bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
+
+[MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
+
+[PiFi Radio](https://rafaelc.org/pifi) - A minimalist web client to listen to radio (archived).
+
+[ympd](https://ympd.org/) - a web GUI written in C, using websockets and bootstrap.js
+
+[unison](https://github.com/ZetaKebab/unison) - daemon client for Windows, focused on shortcuts, with a Snapcast implementation
+
+[phpMp2](https://github.com/whitelynx/phpMp2) - A rather old web-based client for MPD, written in PHP as a replacement for phpMp.
+
+[MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
+
+[MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
+
+[Shinobu](https://github.com/Nyx0uf/Shinobu) - Modern and native client for iOS (iPhone / iPad)
+
+[alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
 
 ## More
 
