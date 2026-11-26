@@ -28,8 +28,6 @@ written in C++ tailored after ncmpc.
 
 [inori](https://github.com/eshrh/inori) - Client with a folding library view, queue interface, and effective fuzzy searching
 
-[MAENMPC](https://masysma.net/32/maenmpc.xhtml) - Experimental MPD client with stars-based ratings, play counts and radio-inspired playlist generation
-
 [muzi](https://github.com/tristanjet/muzi) - TUI client with vim-like keybinds + queue manipulation + fuzzy finding with an emphasis on snappiness.
 
 ## Utility clients
