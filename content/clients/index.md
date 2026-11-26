@@ -129,38 +129,10 @@ At the writing time - more recent, compared to some other gtk clients.
 
 [MPDroid](https://github.com/abarisain/dmix) - A modern MPD Client for Android, no longer runs on new versions of Android
 
-[ps-mpd](https://github.com/insomnimus/ps-mpd) an MPD client as a Powershell (v7+) module, allowing programmatic, structured access to songs, albums and artists as well as playback controls.
-
 [vimpc](https://github.com/boysetsfrog/vimpc) - A curses client with vi-like key bindings.
-
-[pimpd2](https://github.com/trapd00r/pimpd2) - Feature-packed cli client with interactive shell and regex queries.
-
-[mmtc](https://github.com/figsoda/mmtc) - A minimal MPD terminal client
-
-[mpq](https://github.com/codesoap/mpq) - A minimal client that focuses on the mpd queue
 
 [pms](https://github.com/ambientsound/pms) - A console client
 written in Go with vi-like interface.
-
-[bmp](https://github.com/matm/bmp) - Best music parts tracker for MPD
-
-[MPD.FM](https://github.com/florianheinemann/MPD.FM) - A mobile-ready web client focussed on playing internet radio stations
-
-[PiFi Radio](https://rafaelc.org/pifi) - A minimalist web client to listen to radio (archived).
-
-[ympd](https://ympd.org/) - a web GUI written in C, using websockets and bootstrap.js
-
-[unison](https://github.com/ZetaKebab/unison) - daemon client for Windows, focused on shortcuts, with a Snapcast implementation
-
-[phpMp2](https://github.com/whitelynx/phpMp2) - A rather old web-based client for MPD, written in PHP as a replacement for phpMp.
-
-[MPC Wear](https://github.com/20centaurifux/mpcw) - A MPD Client for Wear OS
-
-[MaximumMPD](https://github.com/rbackhouse/MaximumMPD) - A MPD client for iOS
-
-[Shinobu](https://github.com/Nyx0uf/Shinobu) - Modern and native client for iOS (iPhone / iPad)
-
-[alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
 
 ## More
 
