@@ -82,8 +82,6 @@ written in C++ tailored after ncmpc.
 
 [MPDCtrl](https://github.com/torum/MPDCtrl) - A client app for Windows desktop.
 
-[Persephone](https://persephone.fm) - A modern, native client for macOS
-
 [Plattenalbum](https://github.com/SoongNoonien/plattenalbum) - A small GTK4/libadwaita MPD client written in python
 
 [Quimup](https://sourceforge.net/projects/quimup/) - QUIMUP is a client for the music player daemon (MPD) written in C++ and QT3 with focus on mouse handling and drag and drop.
@@ -133,6 +131,8 @@ At the writing time - more recent, compared to some other gtk clients.
 
 [pms](https://github.com/ambientsound/pms) - A console client
 written in Go with vi-like interface.
+
+[Persephone](https://persephone.fm) - A modern, native client for macOS
 
 ## More
 
