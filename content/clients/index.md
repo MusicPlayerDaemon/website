@@ -52,8 +52,6 @@ written in C++ tailored after ncmpc.
 
 [netjukebox](https://netjukebox.nl/) the flexible media share - netjukebox is a web-based media jukebox for MPD, VideoLAN and Winamp/httpQ.
 
-[RompЯ](https://fatg3erman.github.io/RompR/) - A mobile-ready and desktop web client
-
 [cyp](https://github.com/ondras/cyp) - A responsive web client based on [ws2mpd](https://github.com/ondras/ws2mpd/) with Youtube-dl integration
 
 [hympd](https://github.com/cortsf/hympd) - Simple, hackable, mobile and vim-like browser friendly web client.
